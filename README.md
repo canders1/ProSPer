@@ -4,9 +4,9 @@ This repository contains the data and code for ProSPer: Probing Human and Neural
 
 If you reuse this code or dataset, please cite it as:
 
-Masis, Tessa and Carolyn Jane Anderson. ProSPer: Probing Human and Neural Network Language
+<b>Masis, Tessa and Carolyn Jane Anderson. ProSPer: Probing Human and Neural Network Language
 Model Understanding of Spatial Perspective. Proceedings of the BlackboxNLP workshop at the Conference
-on Empirical Methods in Natural Language Processing 2021.
+on Empirical Methods in Natural Language Processing 2021.</b>
 
 There is also an associated Open Science Foundation repository (https://osf.io/qfz38/), which contains files related to the human experiments reported in the paper. You can find the task preregistration, experiment implementation code, human results, and analysis scripts there.
 
