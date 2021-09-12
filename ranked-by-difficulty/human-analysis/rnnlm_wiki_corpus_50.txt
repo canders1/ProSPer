@@ -1,0 +1,250 @@
+1:
+Correct word: go
+Sentence: to go to Home Depot and that's a problem<n>yeah oh
+Likelihood difference: 0.0571413843414
+
+2:
+Correct word: go
+Sentence: You go t to
+Likelihood difference: 0.0269241876046
+
+3:
+Correct word: go
+Sentence: car go planes flying to the United States. When KSM found out, he recalled Moussaoui<n>back to Pakistan and directed him to
+Likelihood difference: 0.0246527254836
+
+4:
+Correct word: come
+Sentence: be came intense. Most of France went enthusiastically into World War I,<n>and
+Likelihood difference: 0.0238974266687
+
+5:
+Correct word: come
+Sentence: be came a colony of Carthage in the 7th century b.c. (see also pages<n>14-15). The Carthaginians originally
+Likelihood difference: 0.0238974266687
+
+6:
+Correct word: go
+Sentence: you going to run for elected office<n>well i ran for State Representative in the election in nineteen ninety and running for probably
+Likelihood difference: 0.0168056074681
+
+7:
+Correct word: go
+Sentence: my go sh<n>yeah some of them i had for two days and you'd
+Likelihood difference: 0.0116431715549
+
+8:
+Correct word: go
+Sentence: my go sh you're you must be a big fan of his<n>i just so happen i guess we just see those but my wife actually talked me into
+Likelihood difference: 0.0116431715549
+
+9:
+Correct word: go
+Sentence: better go to the doctor, you know you're suppose to<n>
+Likelihood difference: 0.010361667698
+
+10:
+Correct word: go
+Sentence: She went back twice.<n>She
+Likelihood difference: 0.00782141099919
+
+11:
+Correct word: go
+Sentence: She went back right after my father died.<n>He died of a massive heart attack when he was 48, and, uh, she
+Likelihood difference: 0.00782141099919
+
+12:
+Correct word: go
+Sentence: she went to the doctor she had surgery she got the treatments and during the period of time that she was undergoing those treatments<n>she was in a nursing home she got better she got well she got out and
+Likelihood difference: 0.00782141099919
+
+13:
+Correct word: go
+Sentence: He go t it from somebody and called me.<n>And I wasn't really dating that guy that seriously, so I decided to
+Likelihood difference: 0.00762120140964
+
+14:
+Correct word: go
+Sentence: yeah<n>just to go ahead and have the account open because uh<n>yeah<n>
+Likelihood difference: 0.00736261640363
+
+15:
+Correct word: go
+Sentence: yeah<n>have to go replace them with uh something a little hardier<n>yeah it's hard to find something that'll take the heat as well as the freezing<n>
+Likelihood difference: 0.00736261640363
+
+16:
+Correct word: go
+Sentence: hm<n>time to go <n>that's it and i moved and you know now i live in like a family a neighborhood in a townhouse but it's nice i don't you know<n>
+Likelihood difference: 0.00736261640363
+
+17:
+Correct word: go
+Sentence: and going down in price too<n>yes yes definitely because i know the price of the big screen TV's you know they're
+Likelihood difference: 0.00687549935404
+
+18:
+Correct word: go
+Sentence: We went to Chimney Rock on a number of occasions.<n>We
+Likelihood difference: 0.00485591133889
+
+19:
+Correct word: go
+Sentence: We went to Linville Caverns once and we
+Likelihood difference: 0.00485591133889
+
+20:
+Correct word: go
+Sentence: we went to a dealership and uh<n>it it was it was pretty she she did pretty well but it was one of these things where we just
+Likelihood difference: 0.00485591133889
+
+21:
+Correct word: go
+Sentence: we went to Oahu and Kauai<n>Kauai uh-huh we
+Likelihood difference: 0.00485591133889
+
+22:
+Correct word: go
+Sentence: She go t married and she married this, uh, very predominant guy who's very, very well-off and they moved back to their, her hometown in GA.<n>So she decided that she would
+Likelihood difference: 0.00439716698546
+
+23:
+Correct word: go
+Sentence: We go out to the chicken coop and it stink.<n>I don't
+Likelihood difference: 0.00426787572589
+
+24:
+Correct word: go
+Sentence: We go back outside for some reason and it wasn't there.<n>And I don't have a clue as to what happened to it and I yell for my dad and we
+Likelihood difference: 0.00426787572589
+
+25:
+Correct word: go
+Sentence: we go where the work is<n>that's true that's true well did you start with TI out here and then
+Likelihood difference: 0.00426787572589
+
+26:
+Correct word: go
+Sentence: we go <n>so how do you rate gun control<n>
+Likelihood difference: 0.00426787572589
+
+27:
+Correct word: go
+Sentence: we go on fishing you know day time trips with them the younger one especially is really
+Likelihood difference: 0.00426787572589
+
+28:
+Correct word: go
+Sentence: we go t like eight cents or something  yeah exactly<n>uh so at work we do recycle we have a little recycling bin for our cans and bottles and uh those
+Likelihood difference: 0.00426787572589
+
+29:
+Correct word: go
+Sentence: and go od food in the Blue Goose yeah that is a
+Likelihood difference: 0.00392143703421
+
+30:
+Correct word: come
+Sentence: which came to be known as a surname (from the<n>French surnom ), given names
+Likelihood difference: 0.00376978755119
+
+31:
+Correct word: come
+Sentence: yeah<n> coming up negative but i do take prescription drugs and i'm always been afraid that those were going to come up and show something on any of the tests<n>yeah well they make uh allowances for that if you report that at the time that you take the test<n>
+Likelihood difference: 0.00330465027703
+
+32:
+Correct word: come
+Sentence: yeah<n>that's coming up here pretty soon is it this weekend<n>i don't know i really don't know it just seems like i here it on the news the day before and uh i i think it's
+Likelihood difference: 0.00330465027703
+
+33:
+Correct word: come
+Sentence: that's coming up here pretty soon is it this weekend<n>i don't know i really don't know it just seems like i here it on the news the day before and uh i i think it's
+Likelihood difference: 0.00330465027703
+
+34:
+Correct word: come
+Sentence: ah<n>it's coming on in two minutes so  i've enjoyed talking with you but i got to have my priorities<n>all right<n>
+Likelihood difference: 0.00330465027703
+
+35:
+Correct word: come
+Sentence: yeah<n> coming in and and top notch uh<n>mechanical type people and they want to do better so they of come they they jump right on it<n>
+Likelihood difference: 0.00330465027703
+
+36:
+Correct word: come
+Sentence: um-hum<n>everything coming down with it i think that uh i do agree with someone when uh Magic Johnson announced<n>uh there was a uh spokesman spokesperson for the gay community<n>
+Likelihood difference: 0.00330465027703
+
+37:
+Correct word: come
+Sentence: yeah<n>everyone coming in uh goes through the drug testing procedure and<n>um-hum<n>
+Likelihood difference: 0.00330465027703
+
+38:
+Correct word: come
+Sentence: um-hum<n>just coming around to the point that we can recognize that the power that that a woman offers to the society you know in terms of nurturing as well as<n>yeah<n>
+Likelihood difference: 0.00330465027703
+
+39:
+Correct word: come
+Sentence: uh-huh<n> coming at  or something you know<n>yeah yeah if they wanted to shoot me or something there there wouldn't have been any problem i mean they just it was in broad it was during the day too so obviously they don't have a whole lot of fear of uh<n>
+Likelihood difference: 0.00330465027703
+
+40:
+Correct word: come
+Sentence: right<n> coming 
+Likelihood difference: 0.00330465027703
+
+41:
+Correct word: go
+Sentence: Where to go <n>Where, indeed? This subcontinent is so rich and varied that<n>
+Likelihood difference: 0.00317630227822
+
+42:
+Correct word: go
+Sentence: Where to go <n>M odern Istanbul, a sprawling metropolis of more than 10<n>
+Likelihood difference: 0.00317630227822
+
+43:
+Correct word: go
+Sentence: Where to go <n>Los Angeles has many different sides, which means you’re in<n>
+Likelihood difference: 0.00317630227822
+
+44:
+Correct word: go
+Sentence: Where to go <n>Whether you’re in Palma, a coastal resort, or an inland<n>
+Likelihood difference: 0.00317630227822
+
+45:
+Correct word: come
+Sentence: This be came patently clear during the Sino-Japanese War of 1894–1895, in which the inadequacy of the Chinese army was starkly displayed. Japan and Western powers were dismantling the Chinese Empire. Demands for reform won the support of the emperor, but his notoriously scheming aunt, the Empress Dowager Cixi (Tz’u Hsi), edged him off the throne. Soon after, Cixi had the chance to exploit the Boxer Rebellion (1900), a revolt against foreign influence. It was finally put down by the intervention of all the great powers, which joined together in an unprecedented alliance. China was saddled with payment of a humiliating indemnity and a further loss of respect.<n>The elderly empress died in 1908, one day after the mysterious death of her nephew, the unseated emperor. The heir apparent was a two-year-old pri
+Likelihood difference: 0.00309893410055
+
+46:
+Correct word: come
+Sentence: Before I<n> came to Washington, I was editor of the Daily Californian , the student<n>newspaper at Berkeley, where I was reviled for endorsing the U.S. invasion of<n>
+Likelihood difference: 0.0029881288677
+
+47:
+Correct word: come
+Sentence: um<n>nothing comes to mind right off so i guess not<n>okay well it was nice talking to you okay bye<n>
+Likelihood difference: 0.00283729591891
+
+48:
+Correct word: come
+Sentence: sure<n>it comes off in strips i mean not even little bit so we still have some of that trim work to do because we put it off all this time we know what a job it's gonna be because you almost have to strip the whole thing in order do it again<n>oh no<n>
+Likelihood difference: 0.00283729591891
+
+49:
+Correct word: come
+Sentence: yeah<n>it comes up from uh Miami uh down around or you know around the Bahamas and it usually travels uh northwest<n>um-hum<n>
+Likelihood difference: 0.00283729591891
+
+50:
+Correct word: come
+Sentence: uh-huh<n> comes from you know the drugs are involved in it but it the gang situation is very serious here also<n>uh-huh i guess that's serious in uh California too in Los Angeles and some of the other cities there<n>
+Likelihood difference: 0.00283729591891
+

@@ -1,0 +1,250 @@
+1:
+Correct word: go
+Sentence: banks triple the offering price on a stock, it's a good sign that the IPO isn't<n> going to crash and burn.) That's not so much because of the company itself,<n>which essentially runs online business-to-business auctions for corporations<n>
+Likelihood difference: 0.0333330327574
+
+2:
+Correct word: come
+Sentence: First, vouchers are a zero-sum game. As Gore sees it, every penny spent on them<n> comes out of funds previously allocated to a fully subsidized program.<n>"Experience shows there's a set amount of money that communities have been<n>
+Likelihood difference: 0.0191172412447
+
+3:
+Correct word: come
+Sentence: "I have a fear that we have a generation of people who are<n> coming up not believing in the system," German said. "That's going<n>to spell problems."<n>
+Likelihood difference: 0.0185757796012
+
+4:
+Correct word: come
+Sentence: benefits. Someday, when boomers retire in hordes, more will go out than will<n> come in. Right now, though, more
+Likelihood difference: 0.0184746653006
+
+5:
+Correct word: go
+Sentence: Nobel laureates fall woefully short of their own standard. Someday a Nobel may<n> go to theoreticians in behavioral finance who will be able to build a model<n>that explains their own behavior as well as it does that of others.<n>
+Likelihood difference: 0.0174967732564
+
+6:
+Correct word: come
+Sentence: through the tunnel and begin to ascend the mountain. Farther on you<n> come to an amazing double tunnel, forcing you to choose the left or<n>right paths. Along the way to the top of Mt. Inari, you will pass many<n>
+Likelihood difference: 0.0156180784175
+
+7:
+Correct word: go
+Sentence: alleged Bauer accusers, former aides Charles Jarvis and Tim McDonald, finally<n> went on the record Wednesday. Jarvis said he had no proof of a sexual<n>relationship between Bauer and McClard, and McDonald said he believed Bauer's<n>
+Likelihood difference: 0.0155030161527
+
+8:
+Correct word: go
+Sentence: the cult of Napoleon in the 19 th century, a young man's craze that<n> went on for generations--the craze that Stendhal described in his character<n>Julien Sorel in The Red and the Black and Victor Hugo in his character<n>
+Likelihood difference: 0.0154232923178
+
+9:
+Correct word: go
+Sentence: Rodriguez. An incredibly talented player -- perhaps the best in the game -- who<n> went a very long time without winning a ring.<n>By making his announcement in this public way, Lebron has only heaped more<n>
+Likelihood difference: 0.0153837692931
+
+10:
+Correct word: go
+Sentence: employees with video cameras, and the agents themselves were wearing wires that<n> went to a CNN feed. None of this was disclosed to Berger. Berger and his wife<n>are now suing the feds and the network for violating the couple's Fourth<n>
+Likelihood difference: 0.0134177683275
+
+11:
+Correct word: come
+Sentence: be out of town," to which Safire responded, "No, you don't understand, I'm<n> coming Tuesday." P.S., Bush changed his schedule. Can you imagine David Broder<n>pulling that crap? If the story's true, it lends credence to a theory I have<n>
+Likelihood difference: 0.0130075631655
+
+12:
+Correct word: go
+Sentence: epicurean dish and saw that I had no sherry on hand, I<n> went to the liquor store and bought a bottle of muscatel<n>that was being sold for an absurdly low price and<n>
+Likelihood difference: 0.0121595283748
+
+13:
+Correct word: go
+Sentence: epicurean dish and saw that I had no sherry on hand, I<n> went to the liquor store and bought a bottle of muscatel<n>that was being sold for an absurdly low price and<n>
+Likelihood difference: 0.0121595283748
+
+14:
+Correct word: go
+Sentence: ratify the UN convention on the rights of the child," the paper said. But it<n> went on to note "that India's own record on human rights has been appalling,<n>with the complaints registered with the National Human Rights Commission<n>
+Likelihood difference: 0.0119570076156
+
+15:
+Correct word: go
+Sentence: able to pull himself out of his first-year struggles by dint of hard effort and<n> went on to an honors degree and a Rhodes scholarship.<n>Judging from their undergraduate careers alone, you<n>
+Likelihood difference: 0.011900065103
+
+16:
+Correct word: come
+Sentence: i think that an employer has the right to ask you to do anything and of course the big deal one of the big deals now too is to that when you<n> come into a company as you sign a paper saying that i will go take a<n>
+Likelihood difference: 0.0118209551148
+
+17:
+Correct word: go
+Sentence: harbour, and when this silted up in the third century a.d. the city<n> went into decline. The site was rediscovered by a British archaeologist<n>in 1869 after six years of searching. Many of the ruins that you see<n>
+Likelihood difference: 0.011717888467
+
+18:
+Correct word: go
+Sentence: care or had had the wrong leg cut off, the reaction was predictable. A clamor<n> went up for the incompetent physician's head--or at least his license. And<n>doctors everywhere cringed. There but for the grace of God go I, each of us<n>
+Likelihood difference: 0.0110927563252
+
+19:
+Correct word: go
+Sentence: of death, with members of the community keeping vigil over the body until it<n> goes in the ground. Exhumation is allowed only when a body is to be reburied<n>with family or in Israel. Christians have a more liberal exhumation policy. The<n>
+Likelihood difference: 0.0107614598039
+
+20:
+Correct word: go
+Sentence: intelligent killer whale a less pejorative name.  They<n> went to its binomial Orcinus orca (Linnaeus 1758) to<n>find a softer synonym and chose “Orca.”  Had they<n>
+Likelihood difference: 0.0106792738398
+
+21:
+Correct word: go
+Sentence: but the reason the actual reason that the motorcycle person her husband was killed was because his brakes<n> went out on his motorcycle he was just taking it home from the place it was brand new and his brakes did not work<n>for goodness sakes<n>
+Likelihood difference: 0.0104484019852
+
+22:
+Correct word: go
+Sentence: homeless man set up a site to sell bicycle parts that he bought cheap from a shop that<n> went out of business. Another made a few thousand dollars by selling obscure<n>videos; he simply found the videos elsewhere on the Web and sold them at a<n>
+Likelihood difference: 0.0104148113889
+
+23:
+Correct word: go
+Sentence: people might drop in.  In big families, the cook customarily<n> went to her own garden or to the curb market ,<n>now called the farmers' marker , to lay in a big<n>
+Likelihood difference: 0.0102454237814
+
+24:
+Correct word: go
+Sentence: as il sterco bovino, literally, cow dung.  I<n> went to high school--a small school with only a minority<n>of Italians--with a girl named Pochintesta<n>
+Likelihood difference: 0.0100067085862
+
+25:
+Correct word: go
+Sentence: contingency planning. According to reporting from the tribals, Bin Ladin regularly<n> went from his adjacent camp to the larger camp where he visited the Emiratis; the<n>tribals expected him to be at the hunting camp for such a visit at least until<n>
+Likelihood difference: 0.0100022886458
+
+26:
+Correct word: go
+Sentence: of drug abuse, which has overshadowed the tour since 1966, when competitors<n> went on strike rather than submit to drug tests. Le Figaro said that the tour had<n>been "poisoned" by the scandal.<n>
+Likelihood difference: 0.00994947431916
+
+27:
+Correct word: go
+Sentence: steps<n>I turned & went back<n>& stepped out of the rain<n>
+Likelihood difference: 0.00964103697498
+
+28:
+Correct word: go
+Sentence: Assistance Program Corp. in Charleston. In January, the LSC funding<n> went to the Greenville-based equal justice centers.<n>In an Aug. 21 letter to NLAP board chairman Gerald A. Kaynard,<n>
+Likelihood difference: 0.00934077906493
+
+29:
+Correct word: go
+Sentence: the Stomach With Soap Wrapped in a Towel Night," but everyone else in the bunk<n> went along with it.<n>Now on to the news.<n>
+Likelihood difference: 0.0088685447713
+
+30:
+Correct word: go
+Sentence: price for a baseball card is $640,000. The cost of the McGwire ball before it<n> went out of the park was $10. The spins, in order of ascending cynicism: 1)<n>Isn't it swell that Philip Ozersky, the $30,000 a year medical researcher who<n>
+Likelihood difference: 0.00852771657708
+
+31:
+Correct word: go
+Sentence: visiting scholar at the London School of Economics in 1976-77 (the year you<n> went to Westminster), and the Pitt Professor at Cambridge in 1987-88, one of<n>the happiest years of our life. The British can be so deft. In 1976 we had a<n>
+Likelihood difference: 0.00844670444037
+
+32:
+Correct word: go
+Sentence: months later by two Sikh members of her security guards. Hindus then<n> went on the rampage through Sikh communities, resulting in a round of<n>communal violence.<n>
+Likelihood difference: 0.00840217495548
+
+33:
+Correct word: go
+Sentence: unstopped still steaming on N'Apulco, and cinnamon custard for desert. Then we<n> went out for a late swim.<n>I had drunk too much, I confess, though we all had. Somehow, Tasha and I began<n>
+Likelihood difference: 0.00831100209105
+
+34:
+Correct word: come
+Sentence: the depressed stock market, your assets are not liquid enough for you to<n> come up with one million dollars this year, then we can consider one of<n>the other alternate ways to achieve our goal.<n>
+Likelihood difference: 0.00828781609358
+
+35:
+Correct word: go
+Sentence: prequel is at full throttle. The soundtrack has been released, tie-in toys have<n> gone on sale (1,500 shoppers showed up at FAO Schwarz's Manhattan store on<n>Monday morning), thousands of Web sites have cropped up, and lines have formed<n>
+Likelihood difference: 0.00824286719465
+
+36:
+Correct word: go
+Sentence: November. In Maryland, where the ads did not run, the Clinton-Dole matchup poll<n> went from a one-point lead for Clinton in the early spring to a nine-point lead<n>in mid-October--that is, Clinton did significantly better in the state where<n>
+Likelihood difference: 0.00806410494476
+
+37:
+Correct word: go
+Sentence: of adversaries say that the new system is better than the one that<n> went before is deeply rewarding. And remember what your Grandmother<n>probably said to you a long time ago-what doesn't kill you probably<n>
+Likelihood difference: 0.00772044673701
+
+38:
+Correct word: go
+Sentence: i did attend public school for all but one year i uh<n> went to a Catholic school for one year found that uh it did not agree with me or i did not agree agree with it and uh spent the rest of my education in public schools<n>uh-huh<n>
+Likelihood difference: 0.00766762545595
+
+39:
+Correct word: go
+Sentence: The war years brought a radical shift in Rothko's style. He<n> went from painting realistic New York scenes to concocting mythological motifs<n>with titles like Archaic Idol and Tentacles of Memory . In a way,<n>
+Likelihood difference: 0.00753956647924
+
+40:
+Correct word: come
+Sentence: wretched excess that we're all part of and that I can't imagine is going to<n> come to an end any time soon.<n>Your question about screenwriters reminds me of the first or second time I<n>
+Likelihood difference: 0.00750861194912
+
+41:
+Correct word: go
+Sentence: labia, often by family members using razors or knives) in 1996. Traditionalists<n> went to court, but the court rejected their argument that Islamic law<n>authorizes mutilation "as an individual right" beyond the reach of government.<n>
+Likelihood difference: 0.00750581748664
+
+42:
+Correct word: go
+Sentence: Edward treated King John as a vassal. However, when Edward<n> went to war with France in 1294 and summoned John along with other<n>knights, the Scottish king decided he had had enough. He ignored<n>
+Likelihood difference: 0.00747159662774
+
+43:
+Correct word: come
+Sentence: sometimes i get called late at night at home because there's a production problem and that gives me the opportunity to<n> come in to work and fix it if i can't think of some thing to tell the trouble shooter while we're on the phone<n>right<n>
+Likelihood difference: 0.00746637949009
+
+44:
+Correct word: go
+Sentence: gambling were the grim scourge portrayed by its opponents, it would not have<n> gone from a contemptible vice to an innocent diversion in a single generation.<n>People who have visited casinos and played the lottery have seen that misery<n>
+Likelihood difference: 0.0074221180945
+
+45:
+Correct word: go
+Sentence: both names nicely. But Chatterbox believes neither Starr nor Linda Tripp will<n> go down in history as the scandal's central figures--although "Trippwire,"<n>submitted by at least four readers, actually packs quite a bit of info about<n>
+Likelihood difference: 0.0071146386673
+
+46:
+Correct word: go
+Sentence: atomic laboratories who've stolen the most vital secrets since the Rosenbergs<n> went to the electric chair." At a Senate hearing Tuesday, another presidential<n>hopeful, Sen. Bob Smith, R-N.H., compared the Chinese spy case to past Soviet<n>
+Likelihood difference: 0.00667791255345
+
+47:
+Correct word: go
+Sentence: is--as every single person I mentioned this place to reminded me--where Nixon<n> went to college (why do we all have this little fact so firmly implanted in our<n>brains?), and there was Barbara Kurth's brother, Peter, being interviewed by<n>
+Likelihood difference: 0.00664171460231
+
+48:
+Correct word: go
+Sentence: In the summer of 1916, Strand<n> went off to his family's country house in Twin Lakes, Conn., and there he<n>decided to take on the Cubism of Picasso and Braque using available materials.<n>
+Likelihood difference: 0.0065967961492
+
+49:
+Correct word: go
+Sentence: list a marketing device for the studios--which fund AFI--to sell videos. "AFI<n> went with the money" (Kenneth Turan, the Los Angeles Times ). (See the full list. "Culturebox" has its own complaints with the AFI.)<n>Mulan<n>
+Likelihood difference: 0.0065495694703
+
+50:
+Correct word: go
+Sentence: um-hum<n> went to a few dinners things like it was interesting it really was of course it was all volunteer we weren't paid members<n>it was interesting to do<n>
+Likelihood difference: 0.00646905406439
+

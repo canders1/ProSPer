@@ -1,0 +1,50 @@
+1. go in post-context
+2. go in post-context
+3. go in post-context
+4. non-deictic go in post-context
+5. come in post-context
+6. come immediately before
+7. disfluency; go in prior context
+8. go in prior context; non-deictic
+9. go in prior and post context; disfluency
+10. go in prior context
+11. go in post context
+12. non-deictic
+13. come in prior context
+14. go in prior and post context
+15. go in prior context
+16. long; come immediately before
+17. go in prior context
+18. short context; go immediately prior
+19. non-deictic; go in post context
+20. long; go in post context
+21. come in post context; short
+22. go in prior and post context; future auxiliary go in post context
+23. short; go in prior context
+24. go in post context; short prior context
+25. disfluency; non-deictic go immediately after
+26. come immediately prior
+27. non-deictic come in prior context
+28. short; go in prior and post context
+29. future auxiliary go immediately before and after
+30. disfluency; go in prior and post context
+31. non-deictic come in prior context; short
+32. long; come in preceding context
+33. non-deictic
+34. non-deictic
+35. non-deictic; short
+36. non-deictic; go in post context
+37. go in prior context
+38. go in post context; !
+39. go in post context
+40. 
+41. short; go immediately before
+42. disfluency; go in post context
+43. go immediately after
+44. come in prior context
+45. short
+46. short
+47. disfluency
+48. go in post context
+49. weird usage 'the person that you're coming to be')
+50. non-deictic; short post context

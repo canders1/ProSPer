@@ -1,0 +1,51 @@
+bert_base:
+1. <n> not segmented; inanimate subject; short context
+2. <n> not segmented; going immediately before and after
+3. go across rather than come across (weird usage)
+4. go immediately before; short context
+5. go immediately after
+6. go immediately before
+7. 'time might have gone' (weird usage)
+8. go in preceding context
+9. go immediately before
+10. go afterwards; !
+11. go afterwards
+12. 'come along' (weird usage)
+13. short context ('come to school' less frequent than 'go to school'?)
+14. come immediately afterwards
+15. 
+16. come immediately afterwards; short context; bad punctuation
+17. go afterwards
+18. come afterwards
+19. 
+20. long
+21. 
+22. go afterwards
+23. go immediately before and after
+24. come immediately before
+25. went before
+26. come immediately after
+27. short context
+28. short context; repeated
+29. 
+30. go before
+31. go immediately before
+32. go immediately before
+33. go immediately before and after
+34. 
+35. non-deictic use 
+36. go immediately after
+37. non-deictic use
+38. go (fut. aux) immediately before
+39. non-deictic use
+40. non-deictic use
+41. non-deictic use; short context
+42. weird anchoring; !
+43. 'come backpacking' less frequent than 'go backpacking'?
+44. 
+45. weird punctuation; non-deictic usage
+46. 'come to school' less frequent than 'go to school'?
+47. non-deictic usage
+48. short
+49. come immediately before; non-deictic
+50. long

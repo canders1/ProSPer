@@ -1,0 +1,250 @@
+1:
+Correct word: come
+Sentence: revolutionary proportions, but why do you identify so much with the Jewish plight portrayed in Fiddler on the Roof?<n>Um, well my favorite part was the two staircases, one going up and one coming down, or there were three actually, one going nowhere, in between.<n>Dad, come on, you're making no sense at all.<n>
+Likelihood difference: 0.995412387419
+
+2:
+Correct word: go
+Sentence: do you have a boo boo<n>that doesn't go across very well when you're uh talking to your coworkers<n>right<n>
+Likelihood difference: 0.995412025601
+
+3:
+Correct word: come
+Sentence: based on a poverty population formula. About 21 percent of the fees<n>would come to this Kentucky Legal Aid office, Crocker said.<n>"We have bipartisan support on this issue and it isn't a tax<n>
+Likelihood difference: 0.987944819499
+
+4:
+Correct word: come
+Sentence: at such a rate of speed the engine the engine will actually drop<n>out of the car so that it doesn't come through the<n>so it does not go it doesn't go through the you know into the inside it'll go underneath the car instead<n>
+Likelihood difference: 0.986420633155
+
+5:
+Correct word: come
+Sentence: When I'm president, I'm sending that back to Congress and we're going to get a real prescription drug benefit.<n>Now, we also have people sicker because they don't have health insurance. So whether it's diabetes or cancer, they come to hospitals later and it costs America more.<n>We got to have health care for all Americans.<n>
+Likelihood difference: 0.968257450499
+
+6:
+Correct word: come
+Sentence: “Ok, but Seth, this is our opportunity to finally meet them. They decorated their house with orange lights for Halloween, their porch lights are on, they’re reaching out for the first time, don’t spoil it with your ignorant assumptions. I’m taking our boy over there for trick or treat and you’re going to hand out candy. End of discussion.”<n>“Look. Abbey. Their cars haven’t moved in four months! Do these weirdos have jobs? Lives? A god-damn grocery list!? If you’re going then I’m coming too.”<n>Abbey, depleted from the argument, compromises. “Fine, put a bowl of candy on the steps, lock up, and let’s go.” Her boy sheepishly enters the room in his pumpkin suit and attaches to her leg. “Are you an’ daddy fighting?” He sniffles.<n>
+Likelihood difference: 0.966911400668
+
+7:
+Correct word: come
+Sentence: to bed at night and there was one called The Pig Princess<n>and it was a a princess from a long long time ago and she came through a a spell kind of thing and ended up in a pig um sty and the people that she
+Likelihood difference: 0.964944842272
+
+8:
+Correct word: come
+Sentence: AEROMAX 2000 HAND-THROWN PARACHUTE W/MAN $9.99 "hours of fun for young<n>& old alike."--Man goes up; man comes down. Man goes up; man
+Likelihood difference: 0.964677157812
+
+9:
+Correct word: come
+Sentence: Sequels: 45845<n>"You look exhausted,"? she spoke again. "Do you want to come lie down or something? I've got a hotel room up at the Montier."? At his inquisitive look she added, “I've got connections with the guy who owns it, so he lets me live there."?<n>After a moment he agreed. "Yeah that'd be great. It would probably be safer if we traveled in stealth though. There might be more of those guys,"? he suggested, looking around warily.<n>
+Likelihood difference: 0.962929892354
+
+10:
+Correct word: go
+Sentence: hence the distinction between murder and accident and serious dieting. If a<n>stranger rendered you unconscious and went at you with a knife, it would mean<n>one thing if it were O. J. Simpson--or any other former NFL great--but<n>
+Likelihood difference: 0.960520193446
+
+11:
+Correct word: come
+Sentence: yeah<n>um i'd like to come back to Dallas right now i'm in Utah of course  so um but my family's there so yeah i'd like to go back<n>oh huh<n>
+Likelihood difference: 0.958000774495
+
+12:
+Correct word: come
+Sentence: I told them my sister's.<n>They asked a few questions and I answered them and they said, "Get your baggage and leave there immediately, and come to the address you were supposed to when you arrived in Washington."<n>I go ahead and picked the baggage and went to the address I was supposed to.<n>
+Likelihood difference: 0.957859283313
+
+13:
+Correct word: go
+Sentence: um-hum<n>i wish to God he would go back<n>oh they do eventually if they have if they're meant to i think<n>
+Likelihood difference: 0.953173683025
+
+14:
+Correct word: come
+Sentence: Robe’s collection of New Mexico legends contains thirty-four variants of the devil-at-the-dance tale. Although the legends in this collection are from rural northern New Mexico, collected in the 1950s and 1960s, we find contemporary versions of the devil-at-the-dance tales in south Texas and in Baja California from the 1980s. Limón and Herrera-Sobek discuss versions of the tale circulating in nightclubs and discotheques among urbanized young people.<n>Of course, not everyone believes such stories. Martin’s book contains a story by a man born in 1904, who says his friend played a trick on his community in Tucson by coming to a dance dressed in black, with a fake rooster foot. Eventually someone noticed his foot and yelled, “The Devil! The Devil!” The narrator says he was there when his friend played the trick, so he doesn’t believe in the legend (50).<n>References De Leon 1982; Glazer 1984,1994; Herrera-Sobek 1988; Limón 1994; Martin 1983; Robe 1951; Robe ed. 1980; West 1988<n>
+Likelihood difference: 0.952094295062
+
+15:
+Correct word: come
+Sentence: and i think one of the good ways of solving that is to like everybody likes to come to a party so have a voting party and uh you know like in communities<n>and have the issues there and then everybody go vote together and then maybe
+Likelihood difference: 0.951893365011
+
+16:
+Correct word: come
+Sentence: no it was down it was down i had to have the window down i went to uh put the window back up it was the middle of winter and the window wouldn't go up because i had the cable yeah<n>so you had a trip that you had to go to the next day in the middle of winter and your window would not come back up all right<n>and no i took the door all apart again and i moved the cable over so it wasn't blocking the window but uh i don't know it used to be fun doing those sorts of things and i don't maybe i'm loosing interest or<n>
+Likelihood difference: 0.94962933287
+
+17:
+Correct word: come
+Sentence: well<n>and i think one of the good ways of solving that is to like everybody likes to come to a party so have a voting party and uh you know like in communities<n>and have the issues there and then everybody go vote together and then maybe
+Likelihood difference: 0.946662960574
+
+18:
+Correct word: come
+Sentence: & old alike."--Man goes up; man comes down. Man goes up; man
+Likelihood difference: 0.945987228304
+
+19:
+Correct word: go
+Sentence: i don't know i mean and it it might be something that he wouldn't be able to control<n>that's that that's that's something that really true that may sort of that military thing i was speaking of before i think that's that's certainly true i mean his military may just go out and say well we just Gorbachev said you can't do it and we're just not
+Likelihood difference: 0.943946203217
+
+20:
+Correct word: come
+Sentence: investors that stock prices had attained a "permanently high plateau." But<n>every time--until now--what had gone up has come down.<n>What if<n>
+Likelihood difference: 0.935626688413
+
+21:
+Correct word: come
+Sentence: then you'll never leave yeah oh<n>yeah i know and that's that's what happened to my brother he came to school up here and then when he went down there he was just so bad off you know from not being able to stay up here that<n>oh uh-huh<n>
+Likelihood difference: 0.93554076273
+
+22:
+Correct word: come
+Sentence: um-hum um-hum<n>it told what happened when they got there and how many kids they had and it just kept coming on up through the generations<n>so it was really that was really neat and<n>
+Likelihood difference: 0.934031864628
+
+23:
+Correct word: come
+Sentence: nd small, in the immediate vicinity of Hanuman Dhoka Palace. The palace, which now serves primarily as a museum, takes its name from the red-cloaked figure of the monkey god Hanuman that stands to the left of the main palace entrance. This stone statue was erected in 1672 and stands atop a squat pillar. The statue’s face is entirely obscured by red paste that is smeared on by worshippers. Tour guides say the red paste is to spare Hanuman the sight of the goings-on — more acrobatic than erotic — carved on the struts of the small Jaganath Temple opposite.<n>When this bit of mythology is related, it immediately sends tour groups trotting across to see what is forbidden to the monkey god. Some say the carvings are there for protection, because the goddess of lightning is a virgin who would not come near anything so shocking. The erotica is probably best explained, however, along with Nepal’s ubiquitous Shiva lingams (phalluses) and the female yoni symbols, as an expression of the creative energy in male-female relations and the pleasure principles of Tantrism.<n>In the palace wall beyond the Hanuman statue and protected by a wooden fence is a poem etched in stone in 15 languages dated 14 January 1664. It is attributed to King Pratap Malla, reputed to be a great linguist.<n>
+Likelihood difference: 0.926483824849
+
+24:
+Correct word: go
+Sentence: Did I ever talk to him? Well, I guess. I think we worked on a project together once. Look, I’m the girl who plays piano for the choir concerts, and he was the one who the school practically made their poster child. We weren’t exactly of the same world.<n>I guess the poor guy got caught up in the high school experience. Who could’ve seen it coming, though? Andrew Gail goes home one Friday night after the football game and blows his head off. That’s one hell of a twist.<n>Grey<n>
+Likelihood difference: 0.925390127115
+
+25:
+Correct word: come
+Sentence: OK.<n>Um, and what happens is as the settlers move in, he actually finds um, because he doesn't want to take people, you know, from his own tribe's arm but he needs an arm so he's spending all of eternity hunting for his arm and, um, as, you know, time comes on and the settlers start in, the region settlers.<n>Uh-huh.<n>
+Likelihood difference: 0.911594876088
+
+26:
+Correct word: come
+Sentence: also um the the family environment<n>you know you can come to south Tyler where i live and you have got room mothers in every room you've got art mothers you've got every every holiday there's parties<n>all the kids have these really supportive really supportive parents always up there for something you can go to north Tyler to the schools and the parents might not could even tell you what their kid's teacher's name is<n>
+Likelihood difference: 0.907188549638
+
+27:
+Correct word: come
+Sentence: um-hum<n>and uh they just didn't come to school and i cannot imagine being able to do much of anything when they don't even
+Likelihood difference: 0.906435757875
+
+28:
+Correct word: go
+Sentence: uh-huh<n>and then while he was on appeal on his thousandth and one appeal the state of California reverked revoked the law in the early seventies and then they reinstated it later but the penalty didn't go back you know<n>uh-huh<n>
+Likelihood difference: 0.906040135771
+
+29:
+Correct word: come
+Sentence: village, or any other such entity below the county<n>level.  Mail, of course, comes to a post office that<n>handles rural route delivery, but those who receive<n>
+Likelihood difference: 0.902590448037
+
+30:
+Correct word: go
+Sentence: uh-huh<n>but every Friday night they'll go home you know straight from work and they'll pack up and you know and then they'll leave and i'm just
+Likelihood difference: 0.90218493389
+
+31:
+Correct word: come
+Sentence: therapeutic purposes with an adequate safety index,” Newhouse says. “But some of the drugs<n>that are coming on in human trials now are very promising. So I'm cautiously optimistic<n>that we're on the road to developing some useful nicotinic therapies.”<n>
+Likelihood difference: 0.900362423621
+
+32:
+Correct word: come
+Sentence: process. Since the new quality-of-life drugs can have adverse health effects,<n>the drugs need to come through physicians. But we don't give out drugs<n>willy-nilly. We must provide a medical reason--a diagnosis. So we call<n>
+Likelihood difference: 0.898776749149
+
+33:
+Correct word: go
+Sentence: And so it doesn't really matter whether supply-side<n>economics makes any sense, or even whether it goes down to a crushing electoral<n>defeat. The supply-siders will always have a safe haven in the world of Free<n>
+Likelihood difference: 0.894104316831
+
+34:
+Correct word: come
+Sentence: They never believed nothing I said, but whatever he said, it was the truth.<n>. JBM: Well then, after he got up pretty good size, you know children, they'd have little parties, you know, and things like that and they'd ask, you know, tell, ask for Babe and myself both to come and Babe would tell me, "No she can't go.<n>That's not for her.<n>
+Likelihood difference: 0.893564555794
+
+35:
+Correct word: come
+Sentence: almost send a beam into the system, go for a cup of coffee and return in time<n>to see the light come out. We can also see Jay Leno making up gags about the<n>post office."--Danish physicist Lene Vestergaard Hau and her team have devised<n>
+Likelihood difference: 0.892757061636
+
+36:
+Correct word: come
+Sentence: um-hum<n>went off and joined the military and then uh came back to college it just the material was so repetitive it was stuff we already seen probably half a<n>who knows how many times before and it was just presented so dryly and i suppose that if um if you're going to pay teachers the salary that they're paid that's that's the level of education that's going to be presented<n>
+Likelihood difference: 0.892554212362
+
+37:
+Correct word: go
+Sentence: yeah<n>um i'd like to come back to Dallas right now i'm in Utah of course  so um but my family's there so yeah i'd like to go back<n>oh huh<n>
+Likelihood difference: 0.888672892004
+
+38:
+Correct word: come
+Sentence: there's anything you have to remember you know as far as singing a song or something like that or interpreting what they mean or but uh<n>i mean you can just sit you know those little booklets that come along with it and you can just see the things that they're trying to show with music my my little boy has gotten so into it that he's identified the the people that have written certain songs and he buys the<n>yeah<n>
+Likelihood difference: 0.887618720531
+
+39:
+Correct word: go
+Sentence: um-hum<n>several times my neighbors came over immediately we didn't even know if they were still in the house my neighbor went through looking<n>yeah<n>
+Likelihood difference: 0.886383105069
+
+40:
+Correct word: come
+Sentence: um-hum<n>and even though we were both working the same number of hours and and doing things i had to come in there specifically and say this needs to be done this is what you do it now no<n>yeah<n>
+Likelihood difference: 0.886044843122
+
+41:
+Correct word: come
+Sentence: uh-huh<n>that you can come back and and rat on them and they'll get them that way<n>if you see them at a party to you know doing dope you can go back to work and tell on them<n>
+Likelihood difference: 0.882857777178
+
+42:
+Correct word: go
+Sentence: She went back right after my father died.<n>He died of a massive heart attack when he was 48, and, uh, she
+Likelihood difference: 0.880112059414
+
+43:
+Correct word: come
+Sentence: necessarily the rule.<n>•Amenities inevitably come hand in hand with crowds, so on<n>the main beaches be prepared to do battle with lots of other<n>
+Likelihood difference: 0.879097042605
+
+44:
+Correct word: come
+Sentence: yeah they sure develop their own interests<n>i can i can remember when my children used to beg me to go with you know even to take them to the store or take them someplace and and it just gradually goes away until you have to ask them do you want to come with me and then they start saying no so<n>it can be pretty sudden too<n>
+Likelihood difference: 0.87789465487
+
+45:
+Correct word: come
+Sentence: It's the home of West Virginia Wesleyan College and that was my playground, that was my own, the place where I spent so much of my childhood playtime and, uh, running through the different buildings and structures of the campus.<n>Uh, having a free reign, going and coming as I pleased almost, because my grandfather was the Dean of the College.<n>And, and everybody knew me so nobody really tried uh, to uh corral me, so I was sort of free to go and do what I wanted, you know when the buildings were open.<n>
+Likelihood difference: 0.877884894609
+
+46:
+Correct word: go
+Sentence: Clarion University<n>uh-huh uh-huh well you're you're the same age as my daughter because she just graduated from college this year too i'm a graduate student having gone back after many years so um<n>oh<n>
+Likelihood difference: 0.872594978195
+
+47:
+Correct word: come
+Sentence: uh-huh<n>and then you would come to one of our in-house classes<n>that is great<n>
+Likelihood difference: 0.871621586382
+
+48:
+Correct word: come
+Sentence: really<n>the the dry cleaner comes right to his place of work and picks the articles up and takes them<n>and dry-cleans them and brings them back the next day and then they give<n>
+Likelihood difference: 0.86990455538
+
+49:
+Correct word: come
+Sentence: Then they went on, they didn't make it to the house.<n>At about, about three weeks later, then arrived a group of about four, at my brother's house, and told him, that they were coming to, to be, that is to take control of the place, where we lived.<n>Well, but that they weren't going to steal, they weren't going to kill, neither would they harm the people, but it we didn't, if we worked with them.<n>
+Likelihood difference: 0.86920193024
+
+50:
+Correct word: go
+Sentence: I can remember uh, some of those stories now, uh, my mother would tell the story of a my uh, great grandmother, my grandmother sitting in the door of living room, when uh, my daddy would go to see her, before they got married and, and of course she would sit there until they leave, and sometimes she would act as though she was sleeping and got rather quiet, she would ( ).<n>In other words, I went to the conclusion that there was strict supervision of, of teenagers uh, while they were under the influence of their parents.<n>Uh,<n>
+Likelihood difference: 0.867433443491
+

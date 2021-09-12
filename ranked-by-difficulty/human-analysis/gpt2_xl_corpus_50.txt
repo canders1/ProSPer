@@ -1,0 +1,250 @@
+1:
+Correct word: come
+Sentence: to start your tour, though do return as the sun drops and the lights<n> come on because the atmosphere is palpable. Narrow alleyways brim with<n>copper, gold, leather, and alabaster, and the streets are replete with<n>
+Likelihood difference: 0.163507377317
+
+2:
+Correct word: go
+Sentence: as il sterco bovino, literally, cow dung.  I<n> went to high school--a small school with only a minority<n>of Italians--with a girl named Pochintesta<n>
+Likelihood difference: 0.0397814163724
+
+3:
+Correct word: go
+Sentence: price for a baseball card is $640,000. The cost of the McGwire ball before it<n> went out of the park was $10. The spins, in order of ascending cynicism: 1)<n>Isn't it swell that Philip Ozersky, the $30,000 a year medical researcher who<n>
+Likelihood difference: 0.0390112641338
+
+4:
+Correct word: go
+Sentence: steps<n>I turned & went back<n>& stepped out of the rain<n>
+Likelihood difference: 0.0211892883695
+
+5:
+Correct word: come
+Sentence: world AIDS is still a death sentence. Despite the fact that the cost of AIDS medicine has<n> come down to around $150 per year in the developing world—a much lower cost than<n>previously—the drugs are still unavailable to the vast majority of patients. What is more,<n>
+Likelihood difference: 0.0209750703061
+
+6:
+Correct word: come
+Sentence: described the homeless in London as "the sort of people you step on when you<n> come out of the opera." Since the audience is rich snobs, people say, let rich<n>snobs pay for it.<n>
+Likelihood difference: 0.0164351767673
+
+7:
+Correct word: come
+Sentence: build and maintain it. Last year, 17% of the Museum's operating budget<n> came from loyal donors' contributions. Even with the continuing<n>generosity of donors, the Museum has programs and operations that go<n>
+Likelihood difference: 0.0159840829515
+
+8:
+Correct word: go
+Sentence: was clingy and electric, so she wore a light flannel nightgown underneath. She<n> went on to say that this approach had the added benefit that should someone ask<n>her to spend the night, she would be prepared.<n>
+Likelihood difference: 0.015416881924
+
+9:
+Correct word: go
+Sentence: epicurean dish and saw that I had no sherry on hand, I<n> went to the liquor store and bought a bottle of muscatel<n>that was being sold for an absurdly low price and<n>
+Likelihood difference: 0.0144766624838
+
+10:
+Correct word: go
+Sentence: epicurean dish and saw that I had no sherry on hand, I<n> went to the liquor store and bought a bottle of muscatel<n>that was being sold for an absurdly low price and<n>
+Likelihood difference: 0.0144766624838
+
+11:
+Correct word: come
+Sentence: agencies, including the FAA, knew that the CSG believed a major al Qaeda attack was<n> coming and could be in the United States.<n>Although the FAA had authority to issue security directives mandating new security<n>
+Likelihood difference: 0.0140622069304
+
+12:
+Correct word: go
+Sentence: is wonderful. Perhaps there was something Jewish in the style--though West, who<n> went to the trouble of changing his name from Weinstein (which in those days<n>was a good idea from a career perspective, even in Hollywood, where he wrote<n>
+Likelihood difference: 0.0122962781305
+
+13:
+Correct word: go
+Sentence: ratify the UN convention on the rights of the child," the paper said. But it<n> went on to note "that India's own record on human rights has been appalling,<n>with the complaints registered with the National Human Rights Commission<n>
+Likelihood difference: 0.0114169866918
+
+14:
+Correct word: go
+Sentence: of death, with members of the community keeping vigil over the body until it<n> goes in the ground. Exhumation is allowed only when a body is to be reburied<n>with family or in Israel. Christians have a more liberal exhumation policy. The<n>
+Likelihood difference: 0.0109431401149
+
+15:
+Correct word: come
+Sentence: "I have a fear that we have a generation of people who are<n> coming up not believing in the system," German said. "That's going<n>to spell problems."<n>
+Likelihood difference: 0.010816181679
+
+16:
+Correct word: go
+Sentence: began in the 1950s, under Robert Wagner. More importantly, all these mayors<n> went to Washington for funds, and of them only Lindsay would be considered a<n>liberal reformer. No doubt, the mayors who took these funds did try to use them<n>
+Likelihood difference: 0.010321504139
+
+17:
+Correct word: come
+Sentence: the depressed stock market, your assets are not liquid enough for you to<n> come up with one million dollars this year, then we can consider one of<n>the other alternate ways to achieve our goal.<n>
+Likelihood difference: 0.00967655264159
+
+18:
+Correct word: go
+Sentence: "I<n> went to high school with Fred Fournier, and believe me there's nothing to<n>admire."-- Dennis Cass<n>
+Likelihood difference: 0.00946605252558
+
+19:
+Correct word: go
+Sentence: right<n>uh went to get his uh sticker renewed and had a couple of little things like the clip that holds the uh oh the muffler pipes<n>right right<n>
+Likelihood difference: 0.0089164745954
+
+20:
+Correct word: go
+Sentence: The war years brought a radical shift in Rothko's style. He<n> went from painting realistic New York scenes to concocting mythological motifs<n>with titles like Archaic Idol and Tentacles of Memory . In a way,<n>
+Likelihood difference: 0.0088930428563
+
+21:
+Correct word: go
+Sentence: existed only to generate suffering--and there was only one thing that really<n> went well. That, needless to say, was Alex's performance in school. "Albert<n>Einstein the Second," his mother called him, and thought it may have been<n>
+Likelihood difference: 0.00881461311861
+
+22:
+Correct word: come
+Sentence: direct in their dealings with each other, as you might discover if you<n> come across a friendly conversation among a group of friends. The loud,<n>raucous Jamaican English dialect and the waving hands reflect the joy<n>
+Likelihood difference: 0.00856736112101
+
+23:
+Correct word: come
+Sentence: yeah i don't think uh American schools in general are uh<n> coming up to where they should be<n>no they're talking about uh in some of the states back here are going two hundred days a year instead of a hundred and eighty i don't know what your school year is there but<n>
+Likelihood difference: 0.00841154906296
+
+24:
+Correct word: go
+Sentence: homeless man set up a site to sell bicycle parts that he bought cheap from a shop that<n> went out of business. Another made a few thousand dollars by selling obscure<n>videos; he simply found the videos elsewhere on the Web and sold them at a<n>
+Likelihood difference: 0.00838002355064
+
+25:
+Correct word: come
+Sentence: wretched excess that we're all part of and that I can't imagine is going to<n> come to an end any time soon.<n>Your question about screenwriters reminds me of the first or second time I<n>
+Likelihood difference: 0.00832254218963
+
+26:
+Correct word: go
+Sentence: of drug abuse, which has overshadowed the tour since 1966, when competitors<n> went on strike rather than submit to drug tests. Le Figaro said that the tour had<n>been "poisoned" by the scandal.<n>
+Likelihood difference: 0.00826747681767
+
+27:
+Correct word: come
+Sentence: be out of town," to which Safire responded, "No, you don't understand, I'm<n> coming Tuesday." P.S., Bush changed his schedule. Can you imagine David Broder<n>pulling that crap? If the story's true, it lends credence to a theory I have<n>
+Likelihood difference: 0.00800425240662
+
+28:
+Correct word: go
+Sentence: year 400. But with the Muslim invasion of Spain in 711, Christianity<n> went underground. After the Reconquest of Toledo in 1085, with the<n>legendary warrior El Cid leading the way, mosques were converted into<n>
+Likelihood difference: 0.0074571757322
+
+29:
+Correct word: come
+Sentence: of Jalan Tunku Abdul Rahman and Jalan Penempang, can be seen as you<n> come into town from the airport. Nearby is the Sabah State Museum on<n>Jalan Museum, which is open only from Saturday to Thursday. The Museum<n>
+Likelihood difference: 0.00730495301706
+
+30:
+Correct word: go
+Sentence: In the 50 years that followed Ashoka’s death, Mauryan power<n> went into decline. Agriculture was not productive enough to finance the<n>empire’s expansion. Also, the unwieldy bureaucracy couldn’t keep its<n>
+Likelihood difference: 0.00725666208861
+
+31:
+Correct word: go
+Sentence: able to pull himself out of his first-year struggles by dint of hard effort and<n> went on to an honors degree and a Rhodes scholarship.<n>Judging from their undergraduate careers alone, you<n>
+Likelihood difference: 0.00696814379671
+
+32:
+Correct word: go
+Sentence: No. I<n> went to Texas A&M, don't forget. I
+Likelihood difference: 0.00682044276564
+
+33:
+Correct word: go
+Sentence: Copernicus unpopular, if he hadn't had the good sense to die the day his book<n> went to press. His follower, Galileo Galilei (1564-1642), built a telescope and<n>used it to piss in the soup even more. The sun, it seemed, has spots on it. Far<n>
+Likelihood difference: 0.00672520731294
+
+34:
+Correct word: go
+Sentence: United States. After remaining in Malaysia for approximately three weeks, Binalshibh<n> went to Bangkok for a few days before returning to Germany. He and Atta agreed to<n>meet later at a location to be determined.<n>
+Likelihood difference: 0.00661938867838
+
+35:
+Correct word: go
+Sentence: Post , when the candidate declined, citing family obligations, the idea<n> went away.<n>The Post 's column one story, written by Bob Woodward and Ann Devroy,<n>
+Likelihood difference: 0.0065829362448
+
+36:
+Correct word: go
+Sentence: Rodriguez. An incredibly talented player -- perhaps the best in the game -- who<n> went a very long time without winning a ring.<n>By making his announcement in this public way, Lebron has only heaped more<n>
+Likelihood difference: 0.00629940444618
+
+37:
+Correct word: come
+Sentence: from Clinton-loyalist-cum-moralist George Stephanopoulos, who urges the prez to<n> come clean. Stephanopoulos thinks Clinton has been hurt by confiding in only a<n>small circle and cutting off many of his advisers.<n>
+Likelihood difference: 0.00629427022809
+
+38:
+Correct word: go
+Sentence: i did attend public school for all but one year i uh<n> went to a Catholic school for one year found that uh it did not agree with me or i did not agree agree with it and uh spent the rest of my education in public schools<n>uh-huh<n>
+Likelihood difference: 0.00623313771131
+
+39:
+Correct word: go
+Sentence: counseling, work training, and the like. Despite Giuliani's interest the idea<n> went nowhere since, Hayes says, it "created a grave sense of panic, at least in<n>the coalition, because it was seen as undermining the ultimate entitlement to<n>
+Likelihood difference: 0.00623022694219
+
+40:
+Correct word: go
+Sentence: Bosnia. Holbrooke's rival Lake made sure none of this happened. The Bosnia job<n> went to someone else. Holbrooke was kept away from the issue and on the<n>periphery of foreign policy-making in general. Eventually he was named<n>
+Likelihood difference: 0.00622269850548
+
+41:
+Correct word: go
+Sentence: the cult of Napoleon in the 19 th century, a young man's craze that<n> went on for generations--the craze that Stendhal described in his character<n>Julien Sorel in The Red and the Black and Victor Hugo in his character<n>
+Likelihood difference: 0.0061802043179
+
+42:
+Correct word: go
+Sentence: alleged Bauer accusers, former aides Charles Jarvis and Tim McDonald, finally<n> went on the record Wednesday. Jarvis said he had no proof of a sexual<n>relationship between Bauer and McClard, and McDonald said he believed Bauer's<n>
+Likelihood difference: 0.00568947386801
+
+43:
+Correct word: come
+Sentence: circumstance, asserting that it is unclear where all the eastern European Jews<n> came from, that the fate of the Khazars is unknown, and that the solution to<n>both problems is the same. Among the scant evidence he offered--in all<n>
+Likelihood difference: 0.00549892067165
+
+44:
+Correct word: go
+Sentence: as I recall, his wife) wait in the family car while he<n> went off to commit a robery.<n>4.  Students filmed in secret. [Ibid., 13 October 90:7]<n>
+Likelihood difference: 0.00523498245204
+
+45:
+Correct word: go
+Sentence: as I recall, his wife) wait in the family car while he<n> went off to commit a robbery.<n>4.  Students filmed in secret.  [Ibid., 13 October 90:7]<n>
+Likelihood difference: 0.00523498245204
+
+46:
+Correct word: go
+Sentence: federal law. Forbes, in a speech last month titled "The Future of Privacy,"<n> went further, saying he would shut down all federal medical databases and end<n>the Internal Revenue Service "as we know it" by imposing a simplified flat<n>
+Likelihood difference: 0.00508984124522
+
+47:
+Correct word: go
+Sentence: that the landing field was in sight by saying I've<n> go t it , with the result that the flying pilot let
+Likelihood difference: 0.00508956448374
+
+48:
+Correct word: come
+Sentence: scare. You'd have thought it would discourage her but, jeez, she just kept<n> coming back. Of course, you'd have thought she'd discourage us, but we kept<n>
+Likelihood difference: 0.00482529440512
+
+49:
+Correct word: go
+Sentence: contingency planning. According to reporting from the tribals, Bin Ladin regularly<n> went from his adjacent camp to the larger camp where he visited the Emiratis; the<n>tribals expected him to be at the hunting camp for such a visit at least until<n>
+Likelihood difference: 0.00475214092149
+
+50:
+Correct word: go
+Sentence: founding editor of Esquire , recalled that in the 1950s, when men began<n> going bareheaded, the business side of the magazine tried to stem the decline<n>of an valued advertising category by decreeing that all male Esquire<n>
+Likelihood difference: 0.0047316306748
+

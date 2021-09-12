@@ -1,0 +1,250 @@
+1:
+Correct word: come
+Sentence: also um the the family environment<n>you know you can come to south Tyler where i live and you have got room mothers in every room you've got art mothers you've got every every holiday there's parties<n>all the kids have these really supportive really supportive parents always up there for something you can go to north Tyler to the schools and the parents might not could even tell you what their kid's teacher's name is<n>
+Likelihood difference: 0.996548289302
+
+2:
+Correct word: come
+Sentence: yeah<n>um i'd like to come back to Dallas right now i'm in Utah of course  so um but my family's there so yeah i'd like to go back<n>oh huh<n>
+Likelihood difference: 0.990721789189
+
+3:
+Correct word: come
+Sentence: at such a rate of speed the engine the engine will actually drop<n>out of the car so that it doesn't come through the<n>so it does not go it doesn't go through the you know into the inside it'll go underneath the car instead<n>
+Likelihood difference: 0.986275498457
+
+4:
+Correct word: come
+Sentence: oh wow<n>and it was wonderful so you know i'm coming to to Plano thinking well gosh it's going to be really great it's ranked so much better<n>yes<n>
+Likelihood difference: 0.970948563074
+
+5:
+Correct word: go
+Sentence: revolutionary proportions, but why do you identify so much with the Jewish plight portrayed in Fiddler on the Roof?<n>Um, well my favorite part was the two staircases, one going up and one coming down, or there were three actually, one
+Likelihood difference: 0.967568155378
+
+6:
+Correct word: go
+Sentence: those women sometimes pick up on those kids emotional needs and<n>might you know be aware of those things coming or going from school where maybe the men don't always you know they're just there to drive the bus you know and the women are more<n>well i saw uh the the superintendent that we've had was being considered for the superintendent in the Boston area<n>
+Likelihood difference: 0.957436972298
+
+7:
+Correct word: come
+Sentence: yeah it is it's<n>i was i was i was i i went i went in thinking it'll be okay not great and then i actually came away thinking it was really pretty good so<n>yeah it's funny we've got a couple of movies out recently Ghost and Defending Your Life that have to do with<n>
+Likelihood difference: 0.927793052047
+
+8:
+Correct word: come
+Sentence: they kind of went in there and took over<n>well what are you going to do they're they're coming to the end of their season uh<n>well that's what i'm doing May third i'm going to sit right here watch it<n>
+Likelihood difference: 0.923802540638
+
+9:
+Correct word: come
+Sentence: she said, "so I'm going."<n>So, I came in, from where I was washing, I went in, and I didn't see what the guerrillas did with themselves, because I didn't see, they were in front, but since I went it, I didn't see.<n>Then, you know, that in order to keep yourself out of trouble, you go in and don't, then they come, or, that was another time, that I suffered a terrible threat when the soldiers come through.<n>
+Likelihood difference: 0.917695345357
+
+10:
+Correct word: come
+Sentence: cocaine production in Colombia alone could triple. Where is all that cocaine<n>going? Some officials think it's going to Europe; others think it's coming here<n>and that Americans are using more cocaine than previously feared. Not everyone<n>
+Likelihood difference: 0.909826637246
+
+11:
+Correct word: come
+Sentence: um-hum uh<n>and watch them come out of the sky through the funnel clouds and the only time we got worried is if it hit the ground but otherwise we'd just sit back there and watch them go in and out of those clouds<n>yeah<n>
+Likelihood difference: 0.904098514235
+
+12:
+Correct word: come
+Sentence: At my discretion, I can extend the discussion by offering each candidate an additional 30 seconds.<n>A green light will come on to signal the candidate has 30 seconds left. A yellow light signals 15 seconds left. A red light means five seconds left.<n>There is also a buzzer, if it is needed.<n>
+Likelihood difference: 0.900042693131
+
+13:
+Correct word: go
+Sentence: we're starting to get some gangs uh they're coming out here and there's been a few shootings drive by shootings and these<n>yeah we've we've had a lot of uh drive-by shootings we have a few people arrested for it going out and shooting just because they felt like killing somebody<n>yeah<n>
+Likelihood difference: 0.891281293705
+
+14:
+Correct word: come
+Sentence: revolutionary proportions, but why do you identify so much with the Jewish plight portrayed in Fiddler on the Roof?<n>Um, well my favorite part was the two staircases, one going up and one coming down, or there were three actually, one going nowhere, in between.<n>Dad, come on, you're making no sense at all.<n>
+Likelihood difference: 0.877003556117
+
+15:
+Correct word: come
+Sentence: yeah they sure develop their own interests<n>i can i can remember when my children used to beg me to go with you know even to take them to the store or take them someplace and and it just gradually goes away until you have to ask them do you want to come with me and then they start saying no so<n>it can be pretty sudden too<n>
+Likelihood difference: 0.876500999671
+
+16:
+Correct word: go
+Sentence: The historical retreat to the Declaration of Independence left Lincoln with a major paradox. He claims to be speaking as president, and his office owed its existence to Article II of the Constitution of 1787. Yet, he thought himself back prior to the Philadelphia convention and the creation of the presidency. He pulled the rug of legitimacy out from under his own office. To be able to advocate the principle that all men are created equal, that a nation was born committed to this principle, he had to speak from a time prior to the creation of the government for which the Union troops died.<n>The precursor to this unusual mode of dating comes in an unexpected place—in the final paragraph of the Emancipation Proclamation, which went into effect on January 1, 1863:<n>Done at the City of Washington, this first day of<n>
+Likelihood difference: 0.870356939733
+
+17:
+Correct word: come
+Sentence: it'd probably have to be a pattern<n>you know we have plenty of convicted guys that go into jail and come back out do the same thing and go back and<n>uh if they're habitual like three times caught for rape or child molesting then snuff them<n>
+Likelihood difference: 0.865419571521
+
+18:
+Correct word: come
+Sentence: investors that stock prices had attained a "permanently high plateau." But<n>every time--until now--what had gone up has come down.<n>What if<n>
+Likelihood difference: 0.847211324144
+
+19:
+Correct word: come
+Sentence: that is terrible and the other person has to hear it<n>yeah well then if the other person hears something like that they come back just as bad  and he'll say well she underestimated her weight by quite a bit  and they they just got you know they they go back and forth and it's kind of funny um<n>oh<n>
+Likelihood difference: 0.846151517238
+
+20:
+Correct word: come
+Sentence: Mojado (Wetback)<n>A translation of the word “wetback,” sometimes spelled moja’o, which literally simply means “wet.” It is a pejorative expression, although it is sometimes used by Mexican people to describe themselves and their experience of illegally crossing the Rio Grande to come to the United States. Also it is a designation used against all Chicanos, with the same prejudicial meaning as “greaser” or “spic.” Some Chicanos use the term to refer to recent Mexican immigrants and also to differentiate themselves from undocumented immigrants. Among teenage Chicanos the word mojado is translated to English and illegal Mexicans are often just called “wets.”<n>Descriptions of the wetback experience have been chronicled and narrated in corridos (ballads) and novels. In Mexico, the term sometimes used is espaldas mojadas, a literal translation for the word wetback. In 1955 a well--established Mexican director released a film titled Espaldas Mojadas, which intended to persuade Mexicans not to go to the United States. It was a political film that incorporated all of the standa
+Likelihood difference: 0.842118329369
+
+21:
+Correct word: go
+Sentence: yeah<n>um i'd like to come back to Dallas right now i'm in Utah of course  so um but my family's there so yeah i'd like to go back<n>oh huh<n>
+Likelihood difference: 0.840742304921
+
+22:
+Correct word: come
+Sentence: Then they went on, they didn't make it to the house.<n>At about, about three weeks later, then arrived a group of about four, at my brother's house, and told him, that they were coming to, to be, that is to take control of the place, where we lived.<n>Well, but that they weren't going to steal, they weren't going to kill, neither would they harm the people, but it we didn't, if we worked with them.<n>
+Likelihood difference: 0.835834830767
+
+23:
+Correct word: come
+Sentence: AEROMAX 2000 HAND-THROWN PARACHUTE W/MAN $9.99 "hours of fun for young<n>& old alike."--Man goes up; man comes down. Man goes up; man
+Likelihood difference: 0.820123232901
+
+24:
+Correct word: come
+Sentence: um-hum<n>and they're coming here going after the hard degrees and then they're going back to Korea and Japan and Hong Kong and everywhere else and they're applying it there<n>absolutely<n>
+Likelihood difference: 0.81740383897
+
+25:
+Correct word: come
+Sentence: yeah well you you live on campus or<n>um i used to i used to live in the dorm for two years but then i came back home i went to um<n>University of Madison Madison so when you  eat eat in the dorms you know there's a big cafeteria they have the food already prepared for you<n>
+Likelihood difference: 0.810511968099
+
+26:
+Correct word: go
+Sentence: yeah<n>and you know we plan also plan a family activity because people are coming and going and it's hard to be all together to do something so<n>uh-huh what kind of things do you do on the family activities<n>
+Likelihood difference: 0.805913847871
+
+27:
+Correct word: go
+Sentence: and uh he actually they came out with a European racing green<n>uh Miata that's a limited edition they're only going to make like three or four thousand so he went out and he traded the other one in and got this one and i'm like um<n>oh<n>
+Likelihood difference: 0.798954918049
+
+28:
+Correct word: come
+Sentence: & old alike."--Man goes up; man comes down. Man goes up; man
+Likelihood difference: 0.797830787953
+
+29:
+Correct word: come
+Sentence: um-hum you get ticketed if you don't do it right<n>right uh-huh and i think it's going to come to that because some people will just not go to the it's it's trouble for me to do what i do i mean i am willing to do it but<n>yeah<n>
+Likelihood difference: 0.789836960379
+
+30:
+Correct word: come
+Sentence: choosing a college i i kind of did or i'd i went off to i grew up in California and i went off to<n>the University of Utah and didn't find the atmosphere there what i quite expected so i came back and went to Cal State and so i kind of do what you did only by route of another school and<n>uh-huh<n>
+Likelihood difference: 0.786796119064
+
+31:
+Correct word: go
+Sentence: yeah that he was willing to come down a little bit and uh if the Rangers will go up a little bit<n>yes and the Rangers
+Likelihood difference: 0.78356584534
+
+32:
+Correct word: go
+Sentence: scribe themselves and their experience of illegally crossing the Rio Grande to come to the United States. Also it is a designation used against all Chicanos, with the same prejudicial meaning as “greaser” or “spic.” Some Chicanos use the term to refer to recent Mexican immigrants and also to differentiate themselves from undocumented immigrants. Among teenage Chicanos the word mojado is translated to English and illegal Mexicans are often just called “wets.”<n>Descriptions of the wetback experience have been chronicled and narrated in corridos (ballads) and novels. In Mexico, the term sometimes used is espaldas mojadas, a literal translation for the word wetback. In 1955 a well--established Mexican director released a film titled Espaldas Mojadas, which intended to persuade Mexicans not to go to the United States. It was a political film that incorporated all of the standard characters that would appear in countless other films and novels of the Chicano experience: the wetback, the pocho (half Mexican), the coyote (smuggler) who smuggles people into the United States, and the grower Mister Sterling. An ironic, yet justified ending shows Mister Sterling dumped into the Rio Grande by Mexicans, and as he swims to the U.S. side of the border he is shot by the Border Patrol. In a 1998 article Herrera-Sobek discusses the use of corridos in several Mexican films that depict the plight of the illegal immigrant, or el mojado.<n>References Cordova 1990; Herrera-Sobek 1993b, 1998; Madrid-Barela 1975; Mora 1982<n>
+Likelihood difference: 0.780629368499
+
+33:
+Correct word: come
+Sentence: yeah<n>well it's  it's the first time something that has come along that makes me feel  that you know i am obviously of another generation this is a there's gap between me and rap music  and  i guess<n>um-hum<n>
+Likelihood difference: 0.775390055962
+
+34:
+Correct word: come
+Sentence: who's also peddling an action screenplay ("but with a strong personal crisis").<n>Lee comes on to virtually every beautiful woman he meets and has an amazing<n>amount of success for someone so otherwise unsuccessful and so thickened with<n>
+Likelihood difference: 0.767564669251
+
+35:
+Correct word: come
+Sentence: Lately,<n>better synthetics have come along. Powerdry, a polyester fabric designed by<n>Malden Mills, and CoolMax, a polyester concoction from DuPont, boast two layer<n>
+Likelihood difference: 0.765739232302
+
+36:
+Correct word: come
+Sentence: uh-huh<n>so everything really that's what's really cut into my TV watching is the time that everything comes on since it's all shifted back an hour i just i don't really have time to stay up late and since i have to get up so early to go to classes<n>uh-huh<n>
+Likelihood difference: 0.763423075899
+
+37:
+Correct word: come
+Sentence: and we went to this one it was called The Back Porch and uh<n>they were cooking the stuff you know while we were we went on this boat ride and then we came back and ate out on this it was like a back porch<n>oh that's nice<n>
+Likelihood difference: 0.760891487822
+
+38:
+Correct word: come
+Sentence: and we really had a good time with that we did have a uh<n>i guess it was a raccoon that came into our campsite and stole some of the food you know that we didn't have set up i think it actually went into the tent with uh with a couple of ladies that were in our group you know went in an and got stuff out of their tent<n>oh<n>
+Likelihood difference: 0.756553180516
+
+39:
+Correct word: come
+Sentence: again that's it you hate to to do that but uh<n>we're starting to get some gangs uh they're coming out here and there's been a few shootings drive by shootings and these<n>yeah we've we've had a lot of uh drive-by shootings we have a few people arrested for it going out and shooting just because they felt like killing somebody<n>
+Likelihood difference: 0.751481752843
+
+40:
+Correct word: go
+Sentence: I can remember uh, some of those stories now, uh, my mother would tell the story of a my uh, great grandmother, my grandmother sitting in the door of living room, when uh, my daddy would go to see her, before they got married and, and of course she would sit there until they leave, and sometimes she would act as though she was sleeping and got rather quiet, she would ( ).<n>In other words, I went to the conclusion that there was strict supervision of, of teenagers uh, while they were under the influence of their parents.<n>Uh,<n>
+Likelihood difference: 0.741352905519
+
+41:
+Correct word: come
+Sentence: You did not see her go in or<n>see her come out.<n>Talk about when you became<n>
+Likelihood difference: 0.740993655054
+
+42:
+Correct word: come
+Sentence: I remember, yeah I remember that based on later conversations that I ( ) with him about it, but at the time I guess I really wasn't sure what it was about, but I knew<n>that when it all came down to the bottom of it, I knew that what I had done was the wrong thing to do and he told me that I'm going to probably have to go down there and help Mrs. Faulk pick up the tomatoes when it's all said and done, and I remember being a little bit nervous about that.<n>I didn't really know Mrs. Faulk very well she was about 80 and, ah, she was a nice person I had seen her a few times but I was really nervous about that.<n>
+Likelihood difference: 0.731320023537
+
+43:
+Correct word: go
+Sentence: Iowa anyway. McCain decided to stay out. That difference says a great deal<n>about where each man comes from and where he goes from here.<n>Bradley is an idealist. Unlike the technocrats, party hacks, and angry<n>
+Likelihood difference: 0.728848872706
+
+44:
+Correct word: go
+Sentence: that you can come back and and rat on them and they'll get them that way<n>if you see them at a party to you know doing dope you can go back to work and tell on them<n>huh<n>
+Likelihood difference: 0.726611457765
+
+45:
+Correct word: go
+Sentence: high ground still known today as the Bluff. In 1872 Japan’s first<n>railway went into service between Yokohama and Tokyo, and the city<n>began to flourish.<n>
+Likelihood difference: 0.720912605524
+
+46:
+Correct word: go
+Sentence: print out a special bar code, the first new method of supplying stamps since<n>postal meters went into service in 1920.<n>Two private companies,<n>
+Likelihood difference: 0.719819486141
+
+47:
+Correct word: come
+Sentence: Um, do you remember the very first time you ever saw or um, met Doug in high school, and can you talk about that a little bit?<n>The first time I ever met Doug was at church, was at Covenant, and he came to church with a friend of ours Tammy Taylor, and, um, he um, he had, I don't remember if he had a mohawk then or if he was bald-headed, I'm guessing he probably had a mohawk, and had on a green and brown flannel shirt, I would guess, and he weighed a hundred and twenty six pounds and was six four, he looked like he was dying with AIDS,<n>, he was pathetic looking, I felt so sorry for him, and he was a total freak, he did not talk to anybody, he was just a skater and he was just a total freak.<n>
+Likelihood difference: 0.717385575175
+
+48:
+Correct word: come
+Sentence: so i don't know you know it does make me nervous<n>well i can see why if you've got little ones just coming along there's a a whole lot of stuff going on out there<n>there is a whole lot of stuff going on out there and and part of me says i just would like to you know shut my eyes and pretend it doesn't you know go on<n>
+Likelihood difference: 0.714264089242
+
+49:
+Correct word: come
+Sentence: with hope running high. Even Jason Hudgins gets to soar. "I look in the mirror<n>and I think to myself: 'Look at the person that you're coming to be.' "<n>It's a little hard to believe that the Jasons<n>
+Likelihood difference: 0.712585794972
+
+50:
+Correct word: come
+Sentence: yeah<n>yeah they everything starts at eight and then it goes through ten and uh i don't think Johnny Carson comes on until like eleven<n>gosh<n>
+Likelihood difference: 0.702981694601
+

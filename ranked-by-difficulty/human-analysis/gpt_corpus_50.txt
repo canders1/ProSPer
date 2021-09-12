@@ -1,0 +1,250 @@
+1:
+Correct word: come
+Sentence: right<n>right and and some people some of the older people today uh their husband's handled all the finances so now they find themselves left out in the cold and they're really really not savvy as far as it comes to finances to handling their own personal affairs<n>um-hum<n>
+Likelihood difference: 0.871475834346
+
+2:
+Correct word: come
+Sentence: well i guess there were i guess it was pretty popular because there was quite a lot of Twin Peak conversation<n>well the thing i liked about it was that it was so unconventional that you couldn't predict what was coming next<n>well at least that that's what i like about a show if if you can predict it it's not worth watching<n>
+Likelihood difference: 0.83947831567
+
+3:
+Correct word: go
+Sentence: Pamper and a Minnie bag. He heads for the bathrooms, waits impatiently<n>for a woman to come along to check the Dames. When no one goes in or<n>out, he pushes the door open and walks in, bending to look in the<n>
+Likelihood difference: 0.716741218735
+
+4:
+Correct word: come
+Sentence: spurred another councillor to take him aside and explain<n>what a urinal was.  In he came again, gesticulating<n>vigorously, to deliver this piece in support of a<n>
+Likelihood difference: 0.713009649526
+
+5:
+Correct word: come
+Sentence: and he was joking with me about how i wasn't going to watch half of it i was going to close my eyes<n>and there were quite a few scenes where i did but this one scene i knew something bad was coming i could tell so i ducked my head<n>and about that time i heard the audience go  and my boyfriend jumped<n>
+Likelihood difference: 0.694835487518
+
+6:
+Correct word: come
+Sentence: & old alike."--Man goes up; man comes down. Man goes up; man
+Likelihood difference: 0.679622055954
+
+7:
+Correct word: come
+Sentence: yeah they sure develop their own interests<n>i can i can remember when my children used to beg me to go with you know even to take them to the store or take them someplace and and it just gradually goes away until you have to ask them do you want to come with me and then they start saying no so<n>it can be pretty sudden too<n>
+Likelihood difference: 0.660844461355
+
+8:
+Correct word: come
+Sentence: no it was down it was down i had to have the window down i went to uh put the window back up it was the middle of winter and the window wouldn't go up because i had the cable yeah<n>so you had a trip that you had to go to the next day in the middle of winter and your window would not come back up all right<n>and no i took the door all apart again and i moved the cable over so it wasn't blocking the window but uh i don't know it used to be fun doing those sorts of things and i don't maybe i'm loosing interest or<n>
+Likelihood difference: 0.652545524404
+
+9:
+Correct word: come
+Sentence: means that it's hard to see how economic growth is going to be sustained there,<n>investors are wagering that the Japanese economy is coming back. Or it could<n>mean that ... Actually, the whole thing is probably just a conspiracy. Just<n>
+Likelihood difference: 0.652341165118
+
+10:
+Correct word: go
+Sentence: yeah it i mean gets you in the spirit but we have cold weather sometimes and most of our cold weather is in like January January and February but we had some cold weather in November so it's just crazy<n>and uh you just don't know exactly what to expect when it goes like that do you kind of<n>no  well yeah it it gets cold here it's just that it doesn't stay cold like i'm not sure how it is where you are but you know in the northern states it gets cold and stays cold all winter<n>
+Likelihood difference: 0.625000128747
+
+11:
+Correct word: go
+Sentence: PLoS Medicine is keen to work with authors towards making such reporting<n>possible. But although the time might have gone when the two-dimensional journal article<n>could suffice for complex papers, clinicians should nonetheless apply the same critical<n>
+Likelihood difference: 0.538594701854
+
+12:
+Correct word: come
+Sentence: As Americans learned in 2000 when the stock market declined from<n>its peak value, what goes up can come down. Aggregate household<n>wealth in 2000 declined for the first time since data were<n>
+Likelihood difference: 0.532458125329
+
+13:
+Correct word: go
+Sentence: yeah i think so<n>the you know it's it sometimes it will skip like my husband is not musical at all but his mother is very musical and um and his children are very musical so  you never know where the talent is going to show up i guess sometimes<n>so um  well i'm not sure how long we've talked i haven't paid haven't been paying attention to the to the clock but uh<n>
+Likelihood difference: 0.525011069533
+
+14:
+Correct word: come
+Sentence: uh was with a friend of mine uh we were going to go down to uh<n>South Padre and we got down there and it was rainy and yucky and we decided just turn around and come back<n>oh now that's someplace i've never been i'd like to go down there<n>
+Likelihood difference: 0.516586752335
+
+15:
+Correct word: come
+Sentence: uh like that was a Saturday morning and it rained all day Saturday and it was still raining Sunday morning we went over and set up camp and you know stayed there over night<n>we couldn't do anything so as soon as we woke up Sunday morning we you know we had breakfast and then we all came back home<n>um-hum<n>
+Likelihood difference: 0.510684966607
+
+16:
+Correct word: go
+Sentence: yeah<n>um i'd like to come back to Dallas right now i'm in Utah of course  so um but my family's there so yeah i'd like to go back<n>oh huh<n>
+Likelihood difference: 0.50853954028
+
+17:
+Correct word: come
+Sentence: threat and tension; beyond that nobody seems to<n>care.  Katie, bar the door!  But where does it come <n>from?  Like many long-ago happenings, nobody<n>
+Likelihood difference: 0.48727546466
+
+18:
+Correct word: come
+Sentence: right i guess from what i hear though uh next year Ford is coming out with their electric cars they're actually
+Likelihood difference: 0.486436909106
+
+19:
+Correct word: come
+Sentence: cocaine production in Colombia alone could triple. Where is all that cocaine<n>going? Some officials think it's going to Europe; others think it's coming here<n>and that Americans are using more cocaine than previously feared. Not everyone<n>
+Likelihood difference: 0.469972330016
+
+20:
+Correct word: come
+Sentence: huh-uh<n>and it's very interesting very interesting and it's been very well done uh and this uh next Sunday they're coming over after the Cowboy game and uh uh we're going to go take the boys to see Christmas lights and go to a Santa's village<n>i'll bet why<n>
+Likelihood difference: 0.456249862353
+
+21:
+Correct word: come
+Sentence: sure<n>right i guess from what i hear though uh next year Ford is coming out with their electric cars they're actually
+Likelihood difference: 0.433109974247
+
+22:
+Correct word: come
+Sentence: yeah and you know i i can go out and mow the grass and everything else and and stand it just fine<n>and uh but my wife she's real hot natured She she would uh she just gets gets outside for five ten minutes and she's ready to come back in So i don't i don't think camping this time of year would i don't even think she'd think about it<n>oh gosh yeah<n>
+Likelihood difference: 0.42614913196
+
+23:
+Correct word: come
+Sentence: Jörg Haider led his far-right Freedom Party to a stunning second-place finish<n>in Austria's national elections; two weeks from now, he's coming to America. To<n>do what?<n>
+Likelihood difference: 0.422736785724
+
+24:
+Correct word: come
+Sentence: at this point in time i enjoyed having the service when we did um<n>the only problem was they never told us when they were coming and then you find a note on your door that says water within two to three days and it was never uh right right but uh<n>right<n>
+Likelihood difference: 0.421823763111
+
+25:
+Correct word: go
+Sentence: at least they're coming around<n>yeah they're going to get better<n>i mean you know<n>
+Likelihood difference: 0.41354184689
+
+26:
+Correct word: come
+Sentence: the the health insurance companies right now pretty much regulate and are pretty picky and and uh don't allow<n>cases where they might throw them out of business whereas the federal government if they took over everything they wouldn't care because they'll never go out of business people would still have to pay taxes the money would have to come from somewhere<n>and so you'd see i i feel that the cost would increase<n>
+Likelihood difference: 0.408066229029
+
+27:
+Correct word: go
+Sentence: hm you mean like those you know twenty thousand dollar toilets<n>exactly exactly that's exactly um the whole thing when you take a look at all those issues of where our money is going <n>and it's just as long as the the person that's spending the money uh doesn't think about oh i can go out and spend anything that i want to it's just unlimited<n>
+Likelihood difference: 0.398209583751
+
+28:
+Correct word: go
+Sentence: So Tim what are up 2? CAN I COME VISIT YOU IN JUNE??? when school is<n>out.-- My mom says I can go anywhere -- she is busy with her new ugh!<n>Boyfriend (dirtball)<n>
+Likelihood difference: 0.391532248084
+
+29:
+Correct word: go
+Sentence: right<n>but you'll find that the  kids don't really have a very good sense of where the money is going and so they'll ask for things pretty much constantly<n>right i remember doing that as a child<n>
+Likelihood difference: 0.389514749046
+
+30:
+Correct word: come
+Sentence: trying to find our place in a bigger picture than the evening news and hoping<n>to see what is coming next.<n>Three kinds of theories of<n>
+Likelihood difference: 0.372200119478
+
+31:
+Correct word: go
+Sentence: yeah<n>is that is that your dog calling you to go running again<n>yes  she doesn't like me on the telephone she's so jealous<n>
+Likelihood difference: 0.353607338472
+
+32:
+Correct word: come
+Sentence: uh-huh<n>just the the Earth you know what the Earth is receiving back you know because how can you tell where it's going to come down at<n>yeah<n>
+Likelihood difference: 0.340852686316
+
+33:
+Correct word: come
+Sentence: Kasich told Clinton lobbyist John Hilley that, "...if we don't get a deal by<n>the beginning of the recess, I'm [expletive] coming over and burning your house<n>down!"<n>
+Likelihood difference: 0.335287612928
+
+34:
+Correct word: come
+Sentence: New Age music. Pvt. Bell (Ben Chaplin) talks to his curvy, redheaded wife,<n>viewed in deliriously sensual flashbacks. ("Love: Where does it come from? Who<n>lit this flame in us?") Lt. Col. Tall (Nolte), a borderline lunatic passed over<n>
+Likelihood difference: 0.332116149329
+
+35:
+Correct word: come
+Sentence: AEROMAX 2000 HAND-THROWN PARACHUTE W/MAN $9.99 "hours of fun for young<n>& old alike."--Man goes up; man comes down. Man goes up; man
+Likelihood difference: 0.329131866282
+
+36:
+Correct word: go
+Sentence: No, they're long things like this<n>, they come down to here, and here another one goes on top, yes, very pretty, like, like between, orange, because they're fired, they're made of fired clay.<n>Well, then, the dust from the, the tiles, was falling, because, well, they were destroying them, right?<n>
+Likelihood difference: 0.326723486675
+
+37:
+Correct word: come
+Sentence: revolutionary proportions, but why do you identify so much with the Jewish plight portrayed in Fiddler on the Roof?<n>Um, well my favorite part was the two staircases, one going up and one coming down, or there were three actually, one going nowhere, in between.<n>Dad, come on, you're making no sense at all.<n>
+Likelihood difference: 0.32298183266
+
+38:
+Correct word: come
+Sentence: well you don't have a choice of where you're going<n>so when you get ready to come down you have to you know you it's more or less like letting the air out he can land more or less where he wants to it's just that there's no like if he wanted to go one place he would have to know which way the wind is blowing<n>yeah<n>
+Likelihood difference: 0.322353830529
+
+39:
+Correct word: go
+Sentence: as it as it turns out you know it's one of those one of those interests that you know i kind of like to keep up on because well it's nice to know that when i'm actually you know i do start working that<n>i'll like to know like where my tax dollars are going too  i work hard to to get you know i like to know where it's
+Likelihood difference: 0.320931786921
+
+40:
+Correct word: come
+Sentence: The meager looking pieces.<n>So my mother use to sit back in her chair in the den and talk about how one Saturday Granny, uh, had decided she was going to go to town and you know back then, you're talking, oh probably 1930s, early 1930s, uh, my mother would've been 10 or 12, somewhere around there, and Granny, uh, went to the train track to get on the little trolley train, whatever they had at that time to come downtown.<n>Uh-huh.<n>
+Likelihood difference: 0.315493839353
+
+41:
+Correct word: come
+Sentence: cooked for supper, too.  However, if everything came <n>out even with nothing left over, the meal
+Likelihood difference: 0.310060826804
+
+42:
+Correct word: come
+Sentence: Entertainment<n>Once the sun goes down, Cancún gears up. There’s no shortage of places to go or things to do, and no need to take a long novel to fill those quiet moments — there just won’t be any. Many people don’t take to their beds until they’ve seen the sun come up. If you choose to stay in Mujeres or Cozumel, things will be a bit more laid back. The diving fraternity tends to enjoy low-key, less glamorous entertainment and relatively early nights before they head under the waves early the following day.<n>Before you head straight into the resort atmosphere of Cancún, check out what’s happening in your hotel. Many have “Las Vegas style” floor shows, Mexican evenings with traditional folk music and dances, and clubs where you can take to the dance floor yourself.<n>
+Likelihood difference: 0.30321983247
+
+43:
+Correct word: come
+Sentence: yeah yeah just roast marshmallows and<n>twelve or one o'clock in the morning till she gets scared and wants to come in you know<n>how old is she<n>
+Likelihood difference: 0.295934102471
+
+44:
+Correct word: come
+Sentence: presentation customer presentation or something<n>yeah yeah  every now and then i'll get dressed up and come in but that's for my husband's job and not mine i have to go to a business meeting once a month with him but<n>oh i see i understand<n>
+Likelihood difference: 0.29427444923
+
+45:
+Correct word: go
+Sentence: right<n>now where did what kind of country did you go camping in<n>in California in the mountains<n>
+Likelihood difference: 0.294260393399
+
+46:
+Correct word: come
+Sentence: that the name "SLATE" is appropriate, because whenever he asks anyone from<n>Microsoft, "How's your project coming along?" the answer he usually gets is,<n>"'s late." SLATE , in fact, has been reasonably prompt. Less than six<n>
+Likelihood difference: 0.293420677246
+
+47:
+Correct word: come
+Sentence: and we went to this one it was called The Back Porch and uh<n>they were cooking the stuff you know while we were we went on this boat ride and then we came back and ate out on this it was like a back porch<n>oh that's nice<n>
+Likelihood difference: 0.290999997728
+
+48:
+Correct word: go
+Sentence: told were some stories but, but they usually talk about past experiences uh, when they were growing up uh, when they were courting, and uh, during their early years of marriage, and uh, this kind of thing.<n>I can remember uh, some of those stories now, uh, my mother would tell the story of a my uh, great grandmother, my grandmother sitting in the door of living room, when uh, my daddy would go to see her, before they
+Likelihood difference: 0.284557975855
+
+49:
+Correct word: come
+Sentence: And she was, she was going very, too fast, and she crashed and then she, um,<n>she goes there, um, every year she comes out at night and then one time a guy passed through that curve and saw her and he stopped there and picked her up and she told him that if she can, if he can take her home to her parents house.<n>And he goes, "Yeah, sure, I'll take you."<n>
+Likelihood difference: 0.274454234942
+
+50:
+Correct word: come
+Sentence: oh i think so too<n>absolutely that's what my wife and i do on Fridays you know we uh meet at five thirty and uh go to the movie and then go out and go to dinner somewhere then come home<n>uh-huh well particularly if you see something that isn't very good you hate having wasted your seven dollars each or whatever it's up to<n>
+Likelihood difference: 0.273963866238
+

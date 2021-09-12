@@ -1,0 +1,250 @@
+1:
+Correct word: go
+Sentence: here goes Sharon<n>okay<n>
+Likelihood difference: 1.46735320271e-07
+
+2:
+Correct word: go
+Sentence: here goes Sharon<n>okay<n>
+Likelihood difference: 1.46735320271e-07
+
+3:
+Correct word: come
+Sentence: He came , he opened the door and I remember looking back and seeing the expression on his face, and I could tell that he was disappointed.<n>He wasn't happy with me, but I wasn't, I wasn't really sure if what I had done was really, really wrong I just knew that he wasn't very happy about what was going on by the way he opened the door and by the way he told me I needed to come into the house, and I, I
+Likelihood difference: 1.33114726161e-07
+
+4:
+Correct word: go
+Sentence: He go t it from somebody and called me.<n>And I wasn't really dating that guy that seriously, so I decided to
+Likelihood difference: 3.45979489162e-09
+
+5:
+Correct word: go
+Sentence: was go nna
+Likelihood difference: 2.91311191362e-09
+
+6:
+Correct word: go
+Sentence: what goes on<n>right and time and so much time
+Likelihood difference: 1.68484989974e-09
+
+7:
+Correct word: go
+Sentence: it go t real cold but the uh camper had uh<n>beds in it you know when we had that one and uh so we just you know we had our bedding we didn't have to
+Likelihood difference: 9.52790412699e-10
+
+8:
+Correct word: go
+Sentence: are we go ing to lose more lives there<n>see and i don't know i don't know i can't tell the future that's what scares me so much about it i mean i thought the war was
+Likelihood difference: 9.49096631065e-10
+
+9:
+Correct word: go
+Sentence: has gone is a past participle but an adjective in He is<n>
+Likelihood difference: 7.34090905341e-10
+
+10:
+Correct word: go
+Sentence: not go od enough. The instructor advised him to discontinue but Hanjour said he could<n>not
+Likelihood difference: 6.26509377124e-10
+
+11:
+Correct word: go
+Sentence: It goes without saying that the cellular plasma membrane effectively creates a barrier<n>between the inside (intracellular area) and outside (extracellular area) of the cell it<n>
+Likelihood difference: 5.94847908401e-10
+
+12:
+Correct word: go
+Sentence: all go vernment any
+Likelihood difference: 4.46818095422e-10
+
+13:
+Correct word: go
+Sentence: and go od food in the Blue Goose yeah that is a
+Likelihood difference: 3.85394745882e-10
+
+14:
+Correct word: go
+Sentence: and go and do that in the winter and in the summer um oh bike riding and<n>we
+Likelihood difference: 3.85394745882e-10
+
+15:
+Correct word: go
+Sentence: you went to school there yeah right uh-huh<n>i
+Likelihood difference: 3.46407265651e-10
+
+16:
+Correct word: go
+Sentence: Now go on,<n>Please
+Likelihood difference: 3.36782908733e-10
+
+17:
+Correct word: go
+Sentence: She went back twice.<n>She
+Likelihood difference: 2.61039389953e-10
+
+18:
+Correct word: go
+Sentence: She went back right after my father died.<n>He died of a massive heart attack when he was 48, and, uh, she
+Likelihood difference: 2.61039389953e-10
+
+19:
+Correct word: go
+Sentence: she went to the doctor she had surgery she got the treatments and during the period of time that she was undergoing those treatments<n>she was in a nursing home she got better she got well she got out and
+Likelihood difference: 2.61039389953e-10
+
+20:
+Correct word: go
+Sentence: will go neither to the Ivy Leagues nor the flagship state universities. At the<n>places their children will
+Likelihood difference: 2.38234817208e-10
+
+21:
+Correct word: go
+Sentence: And we went down to Atlanta for him to talk to people down there and they told him that they couldn't do anything so if he really wanted to be in the army he needed to come back and go up to the Pentagon.<n>So we drove up to Washington, and he
+Likelihood difference: 1.5980129151e-10
+
+22:
+Correct word: go
+Sentence: and we went to this one it was called The Back Porch and uh<n>they were cooking the stuff you know while we were we
+Likelihood difference: 1.5980129151e-10
+
+23:
+Correct word: go
+Sentence: and we went to an early show on that one so we didn't uh<n>in fact i think i
+Likelihood difference: 1.5980129151e-10
+
+24:
+Correct word: go
+Sentence: when you go on trips do you take her with you<n>yeah yeah she loves to
+Likelihood difference: 1.45299161589e-10
+
+25:
+Correct word: go
+Sentence: when you go out into the uh<n>when you
+Likelihood difference: 1.45299161589e-10
+
+26:
+Correct word: go
+Sentence: have you gone to college yourself<n>yeah i have<n>
+Likelihood difference: 1.35272923851e-10
+
+27:
+Correct word: go
+Sentence: is he go ing on for his master's in his the engineering<n>i think he might wanna
+Likelihood difference: 9.01483158317e-11
+
+28:
+Correct word: go
+Sentence: did you go on the Barrier Reef did you see the Great Barrier Reef and and
+Likelihood difference: 6.53119152888e-11
+
+29:
+Correct word: go
+Sentence: did you go through the Redwood Forest<n>no we didn't have time but that we've seen pictures of it i think that'd be nice to
+Likelihood difference: 6.53119152888e-11
+
+30:
+Correct word: go
+Sentence: did you go to school there<n>i don't
+Likelihood difference: 6.53119152888e-11
+
+31:
+Correct word: come
+Sentence: be coming known, and they put off their plans for another day.<n>Al Qaeda's "planes operation" was also
+Likelihood difference: 6.06737335391e-11
+
+32:
+Correct word: go
+Sentence: oh go sh yes uh  oh Yellowstone about four years a
+Likelihood difference: 5.68448357574e-11
+
+33:
+Correct word: go
+Sentence: oh go sh yeah just just the opposite of what everybody's uh working towards now<n>now have you thought about this that wherever you buy your paint you need to make sure that that store's not likely to
+Likelihood difference: 5.68448357574e-11
+
+34:
+Correct word: go
+Sentence: oh go ahead i i am glad to talk to an expert i always wanted to know who an expert was<n>oh well i'm not an expert i just had a little i've i've seen a little pollution in my time it's uh<n>
+Likelihood difference: 5.68448357574e-11
+
+35:
+Correct word: go
+Sentence: oh go odness<n>and uh we had told him that if he ever wanted to
+Likelihood difference: 5.68448357574e-11
+
+36:
+Correct word: go
+Sentence: oh go od<n>well that uh that i think may
+Likelihood difference: 5.68448357574e-11
+
+37:
+Correct word: go
+Sentence: oh go od yeah<n>but you know a lot of people aren't i mean people i know that are just you know they're
+Likelihood difference: 5.68448357574e-11
+
+38:
+Correct word: go
+Sentence: oh go od<n>
+Likelihood difference: 5.68448357574e-11
+
+39:
+Correct word: go
+Sentence: and he go es do you want to dance i turn around and
+Likelihood difference: 4.25695180923e-11
+
+40:
+Correct word: go
+Sentence: things go ing on yeah<n>well some of the some of the uh schools are trying to
+Likelihood difference: 3.40936678018e-11
+
+41:
+Correct word: come
+Sentence: Why not come backpacking and overnight camping with AMC? We have groups for every level of expertise and programs for all seasons.<n>Why not
+Likelihood difference: 3.17256531595e-11
+
+42:
+Correct word: go
+Sentence: how they go t that done. [Laughter.]<n>And--but you need to know--and when you
+Likelihood difference: 2.97306165232e-11
+
+43:
+Correct word: go
+Sentence: and he goes do you want to dance i turn around and go what<n>he
+Likelihood difference: 2.60752225329e-11
+
+44:
+Correct word: go
+Sentence: things are go ing to come to a point it's
+Likelihood difference: 1.73049016151e-11
+
+45:
+Correct word: go
+Sentence: we do go on a  um<n>i
+Likelihood difference: 1.67056328343e-11
+
+46:
+Correct word: go
+Sentence: we do go to uh it's Clear Lake Iowa where we hold it and we make every effort in the world to get the shelter house<n>so we have a facility where we can be inside but yet the kids can
+Likelihood difference: 1.67056328343e-11
+
+47:
+Correct word: go
+Sentence: you can go ahead and start if you want uh<n>well um the budget's an interesting issue uh particularly since i'm pretty much a libertarian and an anachro libertarian at that<n>
+Likelihood difference: 1.46521922575e-11
+
+48:
+Correct word: go
+Sentence: you can go first or i will<n>well you
+Likelihood difference: 1.46521922575e-11
+
+49:
+Correct word: go
+Sentence: well go od<n>and uh i thought we'd you know i wouldn't want to just take it but he has American and a couple of other ones and he said they just
+Likelihood difference: 1.21086800544e-11
+
+50:
+Correct word: go
+Sentence: well go ahead if you're<n>okay  personal interests in computers basically nowadays it seems like you can't get by without one everywhere i
+Likelihood difference: 1.21086800544e-11
+

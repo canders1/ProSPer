@@ -1,0 +1,250 @@
+1:
+Correct word: come
+Sentence: intent of attracting people to treatment because patients do not<n> come to the emergency department with the intention of receiving<n>substance abuse treatment.<n>
+Likelihood difference: 0.739754814655
+
+2:
+Correct word: come
+Sentence: "State legislatures have<n> come a long way in just 25 years"<n>All from the Staten<n>
+Likelihood difference: 0.459030330181
+
+3:
+Correct word: come
+Sentence: during the day my father was depositing the fund so that he can brief you more better. As soon as we agree, we will<n> come to your country where I and my sister will invest the money under your guide. The main reason of contacting you is<n>to solicit your help in coming forward to help us claim the fund as my late father instructed and after that we will<n>
+Likelihood difference: 0.377017285675
+
+4:
+Correct word: come
+Sentence: sometimes i get called late at night at home because there's a production problem and that gives me the opportunity to<n> come in to work and fix it if i can't think of some thing to tell the trouble shooter while we're on the phone<n>right<n>
+Likelihood difference: 0.304196489044
+
+5:
+Correct word: come
+Sentence: don't know if he's cheating on me, but he has been acting strangely. He's been<n> coming home at 6 a.m. when he gets out of work at 1:30 in the morning. He tells<n>me it's because he goes to have coffee with his boss after they close the store<n>
+Likelihood difference: 0.274107500911
+
+6:
+Correct word: go
+Sentence: routinely hire celebrities to attract attention to the latest drugs and the diseases that<n> go with them. Pfizer famously paid presidential hopeful Bob Dole to promote awareness of<n>erectile dysfunction as sildenafil (Viagra) was hitting the market. Wyeth hired supermodel<n>
+Likelihood difference: 0.271177134826
+
+7:
+Correct word: come
+Sentence: uh-huh<n> come home and get back into regular clothes again<n>uh-huh um you know there's real no no no real dress code where i work um you see people wearing you know all different attire i um don't like to wear heels that really tires me out i work in a big building<n>
+Likelihood difference: 0.161152681336
+
+8:
+Correct word: come
+Sentence: rely on complimentary dinners and stays, which means that they notify the<n>establishment ahead of time that they're coming to write a review. Can you<n>imagine the succulent steak, the impeccable service, the free pair of Air<n>
+Likelihood difference: 0.135520404961
+
+9:
+Correct word: come
+Sentence: "Mostly it's good comments though," Contreras said. "People will<n> come in here very confused and very sad and not know what to do.<n>Once they work with the computer and finish, you can tell they're<n>
+Likelihood difference: 0.121078014374
+
+10:
+Correct word: come
+Sentence: dog shit really interesting, the locals turn it into a competitive sport. They<n> come at you in packs and refuse to yield ground, even when they clearly lack<n>the right of way. If you want to get anywhere on foot you have to at once leap<n>
+Likelihood difference: 0.107678258561
+
+11:
+Correct word: come
+Sentence: Bain, who is an extraordinary story of liberal longevity in her own right. Mary<n> came to Washington to work on the New Deal National Youth Administration in<n>1935 and has been with Yates since 1965. She and the boss were busy sorting 50<n>
+Likelihood difference: 0.0928878698333
+
+12:
+Correct word: come
+Sentence: settled director pick both a mainland Chinese cinematographer (who reportedly<n> came with a team of translators) and a different kind of lead actor--one who<n>wouldn't mimic Allen's diction like Mia Farrow in Purple Rose and<n>
+Likelihood difference: 0.0703601240512
+
+13:
+Correct word: come
+Sentence: every way-including intelligence. It is elemental to border security to know who is<n> coming into the country. Today more than 9 million people are in the United States<n>outside the legal immigration system. We must also be able to monitor and respond to<n>
+Likelihood difference: 0.0571823455393
+
+14:
+Correct word: come
+Sentence: ascendance of a service-centered economy in the '70s (with all the doubts that<n> came along with it--like Japanese manufacturing eroding the foundation of the<n>American economy; an assessment that reflected suspicion of an economy's<n>
+Likelihood difference: 0.052336193379
+
+15:
+Correct word: go
+Sentence: might interfere with the reason they are there. Not to mention that some people<n> go there to sit and be quiet and have a small private break. Addressing someone<n>by name, after identifying them by their shoes while they are sitting on the<n>
+Likelihood difference: 0.0358545929193
+
+16:
+Correct word: come
+Sentence: and then when i saw it go all over my car i thought oh oh something<n> came through my radiator and just<n>something's wrong inside my car so i i was waiting for my car to collapse you know i go i was going about sixty five miles an hour<n>
+Likelihood difference: 0.034056089669
+
+17:
+Correct word: go
+Sentence: for what they're paying they ought to get they ought to get the performance out of those guys uh<n> go back<n>that's exactly right<n>
+Likelihood difference: 0.0322305549635
+
+18:
+Correct word: come
+Sentence: Today leads with Kathleen Willey's lawyer's defense of her motives in<n> coming forward. The Washington Post leads with the apparent intention of<n>President Clinton's lawyer in the Paula Jones case, Robert Bennett, to submit<n>
+Likelihood difference: 0.0317905039992
+
+19:
+Correct word: come
+Sentence: Dictionary .  McDavid agreed to become involved,<n> came to New York, and brought Audrey Duckert (of<n>Amherst, Massachusetts) into the picture as his associate.<n>
+Likelihood difference: 0.031243144695
+
+20:
+Correct word: come
+Sentence: would have had better optics. As my wife Sue said: "A large front-end bonus is<n>for coming to the company. That's something positive. But a huge severance<n>package is for failing. And that's incomprehensible." I couldn't have put it<n>
+Likelihood difference: 0.0304794929689
+
+21:
+Correct word: come
+Sentence: Even nowadays one comes across dialect words<n>whose meaning is obscure.  On coming to live in<n>Gloucestershire, I was puzzled by tump, daps , and<n>
+Likelihood difference: 0.0292429871624
+
+22:
+Correct word: come
+Sentence: the world: "Well, the daughter of a Hasidic family, the child of a wealthy man,<n> came on the scene and I ruined her. In those days, I wanted to ruin everything.<n>It was a sort of an ambition with me." This is a man who, seeing a full moon<n>
+Likelihood difference: 0.0272509115954
+
+23:
+Correct word: come
+Sentence: were pulling the horses down with them.I ran into town and got my father who<n> came running back with a knife in his teeth.He jumped into the river with all<n>his clothes on.He took the knife and sawed away at the reins until he finally<n>
+Likelihood difference: 0.0256929097745
+
+24:
+Correct word: come
+Sentence: failure to take effective action with respect to the Taliban and Bin Ladin. Sharif<n> came back to his earlier proposal and won approval for U.S. assistance in training a<n>Pakistani special forces team for an operation against Bin Ladin. Then, in October<n>
+Likelihood difference: 0.0230440941872
+
+25:
+Correct word: go
+Sentence: pleasure, justifying the great deal of ingenuity that<n> goes into producing it.  Writers plainly value being<n>able to use words in ways that not only fail to reflect<n>
+Likelihood difference: 0.0201377399088
+
+26:
+Correct word: go
+Sentence: Clinton have a come-to-Jesus meeting with the House Judiciary Committee, but<n> goes out of the story only saying that White House aides didn't reject Kerry's<n>suggestion, whereas the LAT videotape story describes the White House<n>
+Likelihood difference: 0.0196900155845
+
+27:
+Correct word: come
+Sentence: somewhere between Texas<n>well  party of my part of my reason for coming to California was California<n>um-hum<n>
+Likelihood difference: 0.0190739537575
+
+28:
+Correct word: come
+Sentence: districts was movement down the country or in: travelers<n> came in from the bush as they can now come in<n>to a station, though out, except in collocations like<n>
+Likelihood difference: 0.0169351128592
+
+29:
+Correct word: go
+Sentence: we do. So all that's left is to climb aboard the Flying Dutchman, grab the key, you<n> go back to Port Royal and save your bonnie lass, hey!<n>TIA DALMA Let me see your hand.<n>
+Likelihood difference: 0.0158107811585
+
+30:
+Correct word: come
+Sentence: rather than writing editorials," author of a best-selling attack on Anita Hill,<n>and "the star reporter at the [ American ] Spectator"-- came <n>to break the Troopergate story, and how Troopergate begat Paula Jones, and how<n>
+Likelihood difference: 0.0157403741976
+
+31:
+Correct word: go
+Sentence: hometown and renewed acquaintances with old high-school girlfriends. As time<n> goes on we are becoming closer and spending more time together. The problem is<n>this: Most of them smoke, and I do not. When we go out to dinner we always sit<n>
+Likelihood difference: 0.0135902622619
+
+32:
+Correct word: come
+Sentence: be out of town," to which Safire responded, "No, you don't understand, I'm<n> coming Tuesday." P.S., Bush changed his schedule. Can you imagine David Broder<n>pulling that crap? If the story's true, it lends credence to a theory I have<n>
+Likelihood difference: 0.0118108438328
+
+33:
+Correct word: come
+Sentence: yeah they sure develop their own interests<n>i can i can remember when my children used to beg me to go with you know even to take them to the store or take them someplace and and it just gradually goes away until you have to ask them do you want to come with me and then they start saying no so<n>it can be pretty sudden too<n>
+Likelihood difference: 0.0116558170121
+
+34:
+Correct word: come
+Sentence: times.  I do not know when the word, standing alone,<n> came into common use with an explicit sexual sense.<n>In the 16th century the word was also a verb: `to run<n>
+Likelihood difference: 0.0112272635515
+
+35:
+Correct word: come
+Sentence: Iceland in hopes of discouraging immigrants from<n> coming to what is actually a relatively warm and comfortable<n>place to live, since it is heated by geothermal<n>
+Likelihood difference: 0.0107290967135
+
+36:
+Correct word: come
+Sentence: uh-huh<n>but now that i you know work in the manufacturing plant then it's just it's so much more difficult for me to to actually get dressed up to come in to work like that<n>right<n>
+Likelihood difference: 0.010347148429
+
+37:
+Correct word: go
+Sentence: yes i am<n>had have you ever gone back<n>nope never have<n>
+Likelihood difference: 0.00986955209737
+
+38:
+Correct word: come
+Sentence: students in the program are black?)<n>According to the Wall Street Journal , people who came to Atlanta last year<n>to set up vending operatons are so disgruntled by the financial baths they<n>
+Likelihood difference: 0.00978935499741
+
+39:
+Correct word: come
+Sentence: themselves with the self-improvement movement. "You still go for the needs, for<n>the cavity that has to get filled, but more and more people ... come here to<n>feel better about themselves," says Dr. Stephen Friedman, a Maryland<n>
+Likelihood difference: 0.0090711756493
+
+40:
+Correct word: come
+Sentence: somewhat rough, if he exaggerates the discontinuity between his vision and what<n> came before, no matter: Polish and perspective can come in due course. But<n>inevitably there are those who follow the letter of the innovator's ideas but<n>
+Likelihood difference: 0.00905443437837
+
+41:
+Correct word: come
+Sentence: i think that an employer has the right to ask you to do anything and of course the big deal one of the big deals now too is to that when you<n> come into a company as you sign a paper saying that i will go take a<n>
+Likelihood difference: 0.00869405042613
+
+42:
+Correct word: come
+Sentence: Week this morning, furrow-browed and "heartbroken with all the evidence<n> coming out" against the president. Last week, when the Lewinsky story was only<n>a few hours old, Stephanopoulos popped up on Good Morning America to<n>
+Likelihood difference: 0.0082601623144
+
+43:
+Correct word: come
+Sentence: Week this morning, furrow-browed and "heartbroken with all the evidence<n> coming out" against the president. Last week, when the Lewinsky story was only<n>a few hours old, Stephanopoulos popped up on Good Morning America to<n>
+Likelihood difference: 0.0082601623144
+
+44:
+Correct word: come
+Sentence: Well - or, she should be free after that, so -<n>assuming she's coming to this meeting.<n>I don't know if she knows about it.<n>
+Likelihood difference: 0.00800548764892
+
+45:
+Correct word: come
+Sentence: a combination effort i think of the majority of the American people to<n> come to a decisive answer<n>or<n>
+Likelihood difference: 0.00789218652062
+
+46:
+Correct word: come
+Sentence: um it seems that there's such an effort to make it work there that what they really do need is is the loans and the<n>uh strategic assistance from other countries i'll i'll be curious to see what happens in this elections because it doesn't seem as though that's forth coming right now um<n>sure<n>
+Likelihood difference: 0.00754917689483
+
+47:
+Correct word: come
+Sentence: yeah<n>do you you know what's exciting about watching i never watched minor league teams until i came to Texas because i was raised one near Boston following the Red Sox and then i went to graduate school in Pittsburgh so i be
+Likelihood difference: 0.00717528845611
+
+48:
+Correct word: go
+Sentence: Communist Party had chosen confrontation over dialogue in 1989, he replied, "It<n> goes without saying that naturally we may have shortcomings and even make some<n>mistakes in our work, however we've been working on a constant basis to improve<n>
+Likelihood difference: 0.00711410257041
+
+49:
+Correct word: come
+Sentence: yeah<n>yeah my kids love to watch cartoons and i have to come in the other bedroom to watch Jeopardy and and  such what are some of your favorite sitcoms or whatever at night<n>um i like uh the Fresh Prince of Bel-Air<n>
+Likelihood difference: 0.00710756663102
+
+50:
+Correct word: go
+Sentence: $2 billion offshore gas deal with a French company. The New York Times<n> goes with an apparently surprising crime statistic. And the Los Angeles<n>Times leads with President Clinton's call for Hollywood to avoid making<n>
+Likelihood difference: 0.00671279912463
+

@@ -1,0 +1,50 @@
+1. short
+2. short
+3. segmentation error: "car go"
+4. segmentation error: "be came"
+5. segmentation error: "be came"
+6. 
+7. segmentation error: "go sh"
+8. segmentation error: "go sh"
+9. short context
+10. short context; <n>
+11. <n>
+12. disfluency; <n>
+13. segmentation error: "go t"
+14. <n>
+15. <n>
+16. disfluency; <n>
+17. non-deictic; <n>
+18. short context; <n>
+19. short context
+20. disfluency; <n>
+21. <n>
+22. segmentation error: "go t"
+23. <n>
+24. <n>
+25. <n>
+26. <n>; non-deictic
+27. disfluency
+28. segmentation error: "go t"
+29. segmentation error: "go od"
+30. <n>; non-deictic
+31. <n>; short forward context
+32. <n>; short forward context
+33. <n>; short forward context
+34. non-deictic; <n>; short forward context
+35. <n>; short forward context
+36. <n>; short forward context; non-deictic
+37. <n>; short forward context
+38. <n>; short forward context; non-deictic
+39. <n>; short forward context; non-deictic
+40. <n>; short foward context
+41. short forward context
+42. short forward context
+43. short forward context
+44. short forward context
+45. segmentation error: "be came"
+46. <n>; short forward context
+47. <n>; short forward context; non-deictic; disfluency
+48. <n>; short forward context; non-deictic
+49. <n>; short forward context; non-deictic
+50. <n>; short forward context; disfluency
