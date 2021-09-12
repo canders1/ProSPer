@@ -1,0 +1,16 @@
+data formatting program description:
+
+Input: 
+	- inputfilename
+	- lemma (inflected verb)
+	- supergenre (spoken or written)
+	- corpus (OANC or MASC)
+	- outputfilename
+
+Should read in data, reformat, and output in tab-separated format to the outputfilename in the following format:
+
+prefix, lemma, postfix, genre, sourcefile, verbstem, supergenre, corpus
+
+The input data will be tab-separated with the following columns:
+
+sentence, genre, sourcefile

@@ -1,0 +1,5 @@
+go	come	drive	walk	arrive
+going	coming	driving	walking	arriving
+went	came	drove	walked	arrived
+goes	comes	drives	walks	arrives
+gone	come	driven	walked	arrived
