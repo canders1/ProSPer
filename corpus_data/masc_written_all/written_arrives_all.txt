@@ -1,0 +1,6 @@
+Scene: BLACK PEARL<n>[Jack arrives at the Black Pearl in his coffin rowboat]<n>[Gibbs holds out his hand to help Jack aboard, Jack puts the skeleton<n>	#movie-script#	movie-script_pirates.txt
+Fye-fye!<n>[the cannibal from the bridge arrives to tell the tribe of the men in<n>cages escaping] Da latazo! Da litozo! Hay la paka say-say.<n>	#movie-script#	movie-script_pirates.txt
+ISLA CRUCES beach<n>[their longboat arrives at the beach, Jack disembarks and begins to walk<n>off]<n>	#movie-script#	movie-script_pirates.txt
+jar, scoops handfuls of dirt back into the jar]<n>[a Flying Dutchman crewmember arrives at the boat, Jack fights him using<n>an oar]<n>	#movie-script#	movie-script_pirates.txt
+to escape by longboat]<n>[Norrington arrives at the longboat, while others are fighting he takes<n>the heart from the jar, puts it under his vest]<n>	#movie-script#	movie-script_pirates.txt
+Powell heads to Indonesia's capital, Jakarta, late on Thursday before finishing a weeklong<n>trip through the region in the Philippines on Saturday. He said that when he arrives in Jakarta,<n>he will have "some ideas and some initiatives" to present to President Megawati<n>	#newspaper:newswire#	newspaper:newswire_20020731-nyt.txt
