@@ -167,3 +167,6 @@ This script calculates 3 kinds of accuracy: overall accuracy in the 5-way predic
 
 It also prints accuracy breakdowns by corpus, embedding type, perspective-holder, and tense.
 
+# Human data
+
+The items included in the human experiments can be found in human_judgments. The experimental data collected in the human experiments can be found in the associated Open Science Foundation repository (https://osf.io/qfz38/), along with the task preregistration, implementation code, and analysis scripts.
