@@ -1,0 +1,11 @@
+scraped_data/formatted/OANC*
+scraped_data/formatted/masc*
+tf-lm/models
+
+*.pyc
+*log
+*.swp
+recurrent/models
+recurrent/wiki*
+recurrent/ptb_word*
+
