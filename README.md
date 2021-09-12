@@ -10,6 +10,8 @@ on Empirical Methods in Natural Language Processing 2021.</b>
 
 There is also an associated Open Science Foundation repository (https://osf.io/qfz38/), which contains files related to the human experiments reported in the paper. You can find the task preregistration, experiment implementation code, human results, and analysis scripts there.
 
+Note on naming: in earlier versions of this paper, and some portions of this repository, the Automatic corpus was referred to simply as the "Corpus subset", and the NN Confounding subset of items was known as the "NN Hardest" subset.
+
 ***
 
 # Data
