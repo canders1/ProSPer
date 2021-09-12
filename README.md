@@ -55,7 +55,7 @@ cd into the bert-syntax directory.
 Run a BERT model on the annotated dataset:
 
 ```
-python3 new_eval_gen_bert.py bert ../annotated_all.tsv annotated > results/bert_base_annotated.tsv
+python3 new_eval_gen_bert.py bert ../bert-formatted-files/bert_format_annotated_all.tsv annotated > results/bert_base_annotated.tsv
 ```
 
 Pipe the results into an appropriately named file in bert-syntax/results, as above.
@@ -74,7 +74,7 @@ cd into the bert-syntax directory.
 Run a GPT model on the annotated dataset:
 
 ```
-python3 new_eval_gen_gpt.py gpt ../annotated_all.tsv annotated > results/got_base_annotated.tsv
+python3 new_eval_gen_gpt.py gpt ../formatted-files/annotated_all.tsv annotated > results/got_base_annotated.tsv
 ```
 
 Pipe the results into an appropriately named file in bert-syntax/results, a
@@ -90,7 +90,7 @@ The first command-line argument specifies the type of GPT model:
 GPT is slow enough that it is best to run subsets of the corpus dataset. For instance:
 
 ```
-python3 new_eval_gen_gpt.py gpt2 ../corpus_1.tsv corpus > results/gpt2_base_corpus/gpt2_base_corpus_1.tsv
+python3 new_eval_gen_gpt.py gpt2 ../formatted-files/corpus_1.tsv corpus > results/gpt2_base_corpus/gpt2_base_corpus_1.tsv
 ```
 
 The results files in the results/gpt2_base_corpus directory can then be cat-ed together into a full results file.
@@ -109,13 +109,11 @@ sentence	subgenre	sourcefile
 
 Additionally, you must supply the lemma, corpus, and genre.
 
-If your data is in this format, you can format it for the transformer models by running formatfile.py as below:
+If your data is in this format, you can format it for the transformer models by running formatfile.py (in the formatting directory) as below:
 
 ```
-python3 formatfile.py "scraped_data/OANC_spoken_all/spoken_"$lemma"_all.txt" OANC_spoken $lemma "scraped_data/formatted/OANC_spoken_"$lemma".tsv"
+python3 formatting/formatfile.py "corpus_data/OANC_spoken_all/spoken_"$lemma"_all.txt" OANC_spoken $lemma "corpus_data/formatted/OANC_spoken_"$lemma".tsv"
 ```
-
-Pipe the output to a file as shown above.
 
 ### ANNOTATED STYLE:
 
@@ -124,13 +122,12 @@ prefix	lemma	postfix	embedding	persective/subject	destination	notes	genre	source
 Additionally, you must supply the corpus and stem.
 
 
-
 ## RNNLM format
 
-The RNNLM models take a different format. The recurrent_formatting.py script can be used to create an RNNLM-formatted version of Transformer-formatted file as follows:
+The RNNLM models take a different format. The recurrent_formatting.py script (in the formatting directory) can be used to create an RNNLM-formatted version of Transformer-formatted file as follows:
 
 ```
-python3 input.tsv datatype rnn_model
+python3 recurrent_formatting.py input.tsv datatype rnn_model
 ```
 
 There are two kinds of RNNLM models: one trained on the PTB corpus and one trained on the Wiki2 corpus. The data for these models must be formatted separately, because they have different vocabularies.
@@ -138,15 +135,15 @@ There are two kinds of RNNLM models: one trained on the PTB corpus and one train
 As an example, here is how to format the annotated data for the wiki model:
 
 ```
-python3 annotated_all.tsv annotated wiki
+python3 formatting/recurrent_formatting.py annotated_all.tsv annotated wiki
 ```
 
 The output is written to recurrent/data/annotated/wiki/test.txt.
 
-In order to evaluate the results of RNNLM models using the Transformer evaluation scripts, you will need to format the results again using the recurrent_reformatting.py script as shown below:
+In order to evaluate the results of RNNLM models using the Transformer evaluation scripts, you will need to format the results again using the recurrent_reformatting.py script (in the formatting directory) as shown below:
 
 ```
-python3 recurrent_reformatting.py recurrent/results/annotated_wiki_word_discourse_rescore.txt annotated_all.tsv annotated > bert-syntax/results/recurrent_wiki_annotated.tsv
+python3 formatting/recurrent_reformatting.py recurrent/results/annotated_wiki_word_discourse_rescore.txt annotated_all.tsv annotated > bert-syntax/results/recurrent_wiki_annotated.tsv
 ```
 
 As shown above, pipe the output to a tsv file in the bert-syntax/results directory.
