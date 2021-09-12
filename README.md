@@ -50,12 +50,12 @@ You will need to use the recurrent_reformatting.py script to format the results 
 
 ## RUNNING BERT
 
-cd into the bert-syntax directory.
+cd into the LMs directory.
 
 Run a BERT model on the annotated dataset:
 
 ```
-python3 new_eval_gen_bert.py bert ../bert-formatted-files/bert_format_annotated_all.tsv annotated > results/bert_base_annotated.tsv
+python3 model-scripts/new_eval_gen_bert.py bert ../bert-formatted-files/bert_format_annotated_all.tsv annotated > results/bert_base_annotated.tsv
 ```
 
 Pipe the results into an appropriately named file in bert-syntax/results, as above.
@@ -64,17 +64,16 @@ The first command-line argument specifies the type of BERT model:
 
 * bert : base bert
 * bert-large : large bert
-* roberta : RoBERTa
 * distil : distilBERT
 
 ## RUNNING GPT
 
-cd into the bert-syntax directory.
+cd into the LMs directory.
 
 Run a GPT model on the annotated dataset:
 
 ```
-python3 new_eval_gen_gpt.py gpt ../formatted-files/annotated_all.tsv annotated > results/got_base_annotated.tsv
+python3 model-scripts/new_eval_gen_gpt.py gpt ../formatted-files/annotated_all.tsv annotated > results/got_base_annotated.tsv
 ```
 
 Pipe the results into an appropriately named file in bert-syntax/results, a
@@ -90,10 +89,14 @@ The first command-line argument specifies the type of GPT model:
 GPT is slow enough that it is best to run subsets of the corpus dataset. For instance:
 
 ```
-python3 new_eval_gen_gpt.py gpt2 ../formatted-files/corpus_1.tsv corpus > results/gpt2_base_corpus/gpt2_base_corpus_1.tsv
+python3 model-scripts/new_eval_gen_gpt.py gpt2 ../formatted-files/corpus_1.tsv corpus > results/gpt2_base_corpus/gpt2_base_corpus_1.tsv
 ```
 
 The results files in the results/gpt2_base_corpus directory can then be cat-ed together into a full results file.
+
+## RUNNING RoBERTa, Transformer-XL and CTRL
+
+Other models are run similarly using scripts in LMs/model-scripts.
 
 ***
 
@@ -150,12 +153,12 @@ As shown above, pipe the output to a tsv file in the bert-syntax/results directo
 
 # Evaluation
 
-bert-syntax/eval_ext_stats.py is an evaluation script that runs on the format output by the transformer and n-gram models.
+LMs/eval_ext_stats.py is an evaluation script that runs on the format output by the transformer and n-gram models.
 
-You can run this script on any bert-syntax/results/.tsv file as follows:
+You can run this script on any LMs/results/.tsv file as follows:
 
 ```
-python bert-syntax/eval_ext_stats.py bert-syntax/results/ngram_corpus.tsv corpus
+python LMs/eval_ext_stats.py bert-syntax/results/ngram_corpus.tsv corpus
 ```
 
 The second argument specifies whether the input data is in corpus or annotated format (i.e., does it contain annotations for embedding, subj/perspective-holder, destination?)
@@ -163,6 +166,10 @@ The second argument specifies whether the input data is in corpus or annotated f
 This script calculates 3 kinds of accuracy: overall accuracy in the 5-way prediction task; accuracy in the 2-way come/go task; and accuracy in the 2-way non-perspectival motion verb task.
 
 It also prints accuracy breakdowns by corpus, embedding type, perspective-holder, and tense.
+
+To get the scores rather than summary statistics, you may prefer to run getAllScores.py, which returns results ranked by model performance on each item.
+
+Note: some models output log probabilities, others probabilities. You may need to use the scripts in LMs/score-conversion to convert to log format (which is expected by getAllScores.py).
 
 # Human data
 
