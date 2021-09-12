@@ -2,6 +2,14 @@
 
 ***
 
+# Data
+
+ProSPer's data set consists of two parts: the Annotated subset, which carries human annotations, and the Automatic subset, which is referred to as 'corpus' in this directory and README. The raw data for each subset can be found in annotated_data and corpus_data respectively.
+
+Formatted versions of each file can be found in annotated_data/formatted and annotated_data/bert_format, and corpus_data/formatted and corpus_data/bert_format. (BERT requires slightly different data preparation than the other models because of differences in tokenization and masking.)
+
+The compiled and formatted files for each subset can be found in the formatted and bert-formatted repositories. The Automatic subset is large enough that it has been split into 5 parts. The Annotated subset is small enough to run as one file.
+
 # Running Instructions
 
 Instructions for running each kind of model are below. The n-gram, Transformer XL, BERT, and GPT models all take the same format as input. The RNNLM models require you to format the data differently--- directions on that can be found in the data formatting section of this README.
