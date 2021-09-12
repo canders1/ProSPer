@@ -1,0 +1,250 @@
+1:
+Correct word: come
+Sentence: she said, "so I'm going."<n>So, I came in, from where I was washing, I went in, and I didn't see what the guerrillas did with themselves, because I didn't see, they were in front, but since I went it, I didn't see.<n>Then, you know, that in order to keep yourself out of trouble, you go in and don't, then they come, or, that was another time, that I suffered a terrible threat when the soldiers come through.<n>
+Likelihood difference: 4.11235141754
+
+2:
+Correct word: come
+Sentence: oh that's nice<n>it is nice he matter of fact he was here today it was the first really warm weather we've had and he came out and cut the yard and trimmed the hedges and all that<n>uh-huh<n>
+Likelihood difference: 2.9188747406
+
+3:
+Correct word: come
+Sentence: Oh, I bet.<n>And then coming back, we came back through Roanoke, VA and then were on the Skyline Drive, and Daddy said, "We're going to go to Roanoke and there's Roanoke Mountain there."<n>Or Roan Mountain, anyway, there's supposed to be a mountain right in the middle of Roanoke.<n>
+Likelihood difference: 2.67981338501
+
+4:
+Correct word: come
+Sentence: yeah i i think well that's probably the idea i don't know whether their idea is to be within the country or outside the country<n>well i thought it'd be a good idea if maybe you took the some of the kids and had them go over to other countries and children from their countries came over to ours too<n><n>
+Likelihood difference: 2.57000541687
+
+5:
+Correct word: come
+Sentence: Both my husband and I had lost our jobs in the North.<n>So, we came south, because this is where the jobs are and fortunately, we were able to get work and re-located here.<n>So, this is two and a half years later, and my husband and I are employed in the public schools in Charlotte.<n>
+Likelihood difference: 2.4601020813
+
+6:
+Correct word: come
+Sentence: Both my husband and I had lost our jobs in the North.<n>So, we came south, because this is where the jobs are and fortunately, we were able to get work and re-located here.<n>So, this is two and a half years later, and my husband and I are employed in the public schools in Charlotte.<n>
+Likelihood difference: 2.4601020813
+
+7:
+Correct word: come
+Sentence: choosing a college i i kind of did or i'd i went off to i grew up in California and i went off to<n>the University of Utah and didn't find the atmosphere there what i quite expected so i came back and went to Cal State and so i kind of do what you did only by route of another school and<n>uh-huh<n>
+Likelihood difference: 2.34750175476
+
+8:
+Correct word: come
+Sentence: you know it the city itself is great but i mean you go in the in the uh car for a drive and you could see nothing for miles and miles and miles<n>we came back when they were teenagers<n>uh-huh<n>
+Likelihood difference: 2.3451757431
+
+9:
+Correct word: come
+Sentence: And he's running, trying to keep up with gravity, so he's going down this hill, and literally, falling down the hill, but instead of falling down, he's running!<n>And, what we didn't know, was this hill came down, and then there was a twenty foot cliff, with a big terrace in it, and then the hill kept going.<n>They'd cut a terrace into the hill, halfway down it, you couldn't see it from the top, where they drove trucks down, and they'd just clear cut this, and down at that cliff, the bottom of that cliff was twenty foot in the air, literally, higher than this ceiling, and down at the bottom were just these little like bungee, where they'd cut all this brush and there's little bungee stuff sticking out.<n>
+Likelihood difference: 2.13826560974
+
+10:
+Correct word: come
+Sentence: Um, do you remember the very first time you ever saw or um, met Doug in high school, and can you talk about that a little bit?<n>The first time I ever met Doug was at church, was at Covenant, and he came to church with a friend of ours Tammy Taylor, and, um, he um, he had, I don't remember if he had a mohawk then or if he was bald-headed, I'm guessing he probably had a mohawk, and had on a green and brown flannel shirt, I would guess, and he weighed a hundred and twenty six pounds and was six four, he looked like he was dying with AIDS,<n>, he was pathetic looking, I felt so sorry for him, and he was a total freak, he did not talk to anybody, he was just a skater and he was just a total freak.<n>
+Likelihood difference: 2.11050415039
+
+11:
+Correct word: come
+Sentence: So I'm like, "OK he hasn't called back or anything," so I'm figuring I can do it on Monday.<n>Well I get there this morning and um, I forget how, I think either I asked a question and he came in there or, whatever.<n>Anyhow, he tells me, "Well I need it by today because such and such is coming, coming in and we need to take it to the bank."<n>
+Likelihood difference: 1.90661621094
+
+12:
+Correct word: come
+Sentence: yeah<n>yeah course he he came after a legend too Tom Landry so he had some uh tough row to hoe there<n>my<n>
+Likelihood difference: 1.79312133789
+
+13:
+Correct word: come
+Sentence: right<n>and she came with skirts just like she'd be going into the office<n>yeah<n>
+Likelihood difference: 1.7834854126
+
+14:
+Correct word: come
+Sentence: it doesn't take much but uh we got him all back going and<n>packed up and came on back uh let's see i i had another another camp out that wasn't uh near as bad in fact it had some really good good points to it i'm trying to think of exactly where we were<n>uh we were on another lake i don't remember the the name of it but we were right up at the shore and the way it was layed out the camp grounds were<n>
+Likelihood difference: 1.64743709564
+
+15:
+Correct word: come
+Sentence: When did you get married?<n>Well, I came to Charlotte to live with my grandmother.<n>I was engaged to a boy in Wadesboro.<n>
+Likelihood difference: 1.34923362732
+
+16:
+Correct word: come
+Sentence: I had a small child had a two and-a-half year old and a baby.<n>And I can remember that I had one of the first boxes of disposal diapers and I stood up in the train in the center of the train to go to the restroom and take Donna and change her diaper and she went to the bathroom and it all came down my dress and down her leg and puddled on the floor.<n>And so much for disposable diapers.<n>
+Likelihood difference: 1.31092357635
+
+17:
+Correct word: come
+Sentence: but i<n>had another career first and then came to TI a little later<n>uh-huh<n>
+Likelihood difference: 1.21628093719
+
+18:
+Correct word: come
+Sentence: um<n>and uh we ended up opting for um a live-in nurse and you know that came into his home and and we set her up a room in a spare room and she stayed there with him instead because we just could not imagine<n>a fifty seven year old man in a nursing home we just you know we just could not could not imagine doing it<n>
+Likelihood difference: 1.15699672699
+
+19:
+Correct word: come
+Sentence: uh-huh<n>but there are some housing developments that uh the guy that came out and inspected our damage was saying that there are some little little pockets of neighborhoods that don't have these problems at all and had i only known you know maybe i'd have looked over there<n>really<n>
+Likelihood difference: 1.15249919891
+
+20:
+Correct word: come
+Sentence: In, uh, in the window in front, we have a window facing the street, there was a guerrilla lying on the ground, firing at the soldiers.<n>On this other side where the bedroom was, I went outside, and I saw him, well, the size of the flame, when the flame from the rif, from, the bullet came out, even with a small flame like this<n>.<n>
+Likelihood difference: 1.14416885376
+
+21:
+Correct word: come
+Sentence: um we had i uh um my wife and i own our own home and we have a very big willow tree in our backyard<n>that um that ninety percent of which came down in one night<n>things like that it was a it it definitely is very um<n>
+Likelihood difference: 1.13383483887
+
+22:
+Correct word: come
+Sentence: Um, my parents had a small house on a very friendly suburban street and, ah, one summer day I remember going out to the back of our yard, which seemed really big then.<n>Uh, I reached into my parents small garden, it had quite a few tomatoes in it, and I just started lobbing the tomatoes over the fence, and I kept lobbing the tomatoes over the fence, and then my next door neighbor, who was probably about four, my playmate at the time, he rode his Big Wheel down the, down the hill there and came and started throwing the tomatoes with me and we were just having a great time not thinking about anything, laughing having a lot of fun<n>.<n>
+Likelihood difference: 1.10860347748
+
+23:
+Correct word: come
+Sentence: uh i i think the thing that i've noticed in more recent years there's more ties and jackets and shirts as the younger the younger crowd seems to want to dress those of us i've been here thirty two years those of us been here for a long time don't care to dress up<n>but when we came to work i was told that the president of the company set the standard of dress and he's he dressed like the janitor so we all we all did<n>and the feeling has always been that without the shirts and ties and suit coats that people were in a more relaxed atmosphere and you could have a freer exchange of information<n>
+Likelihood difference: 1.09149742126
+
+24:
+Correct word: come
+Sentence: Well then one day up there, he wanted me to wash the tie, I mean, you know, wash the things what you use in the kitchen and then he give me two white shirts to carry over, over to the washerette with, right across the street then, right across ( ).<n>And I came over and he said, he said, "Now you got to put bleach in there in the towels to get them clean," he told me.<n>I said, "All right."<n>
+Likelihood difference: 1.07396697998
+
+25:
+Correct word: come
+Sentence: And uh, as we got closer to Craig's house that we were staying at we came by uh, it was a plastic mailbox, and uh, so we uh, stuffed the newspaper in it and lit it on fire and we, we weren't really thinking and all the sudden the newspaper caught on fire and then the whole mailbox caught on fire.<n>It, it was plastic and it started dripping and fireballs of plastic
+Likelihood difference: 1.03307437897
+
+26:
+Correct word: come
+Sentence: i like i've seen it several times it's a scream but i had to go to bed i have to get up and and work the next morning i wish they'd put those<n>that's why i say did you stay up late to watch this Red Dwarf it came on after Doctor Who on Saturday nights here at least<n>um-hum<n>
+Likelihood difference: 0.98357963562
+
+27:
+Correct word: come
+Sentence: Um, not really.<n>Um, but when I left fifth grade, I also left Brooklyn, and when I came to the VA school system things were very different.<n>Actually, um, there was a sense in which I think I was a little bit ahead of where folks were, um, in VA at that time.<n>
+Likelihood difference: 0.942883491516
+
+28:
+Correct word: come
+Sentence: And uh, you know we were all fired up.<n>We came up to uh, newspaper mailbox that was plastic and we lit that on fire, we actually set a couple of those on fire, and uh, I mean by this time, I mean you could, the sun, you could almost see the sun coming up so we run as fast as we can to get back to Craig's house and we sneak back into the back window and uh, we go to sleep.<n>OK, we uh, went to sleep and uh, about an hour and a half later about 8:00 in the morning uh, Craig's mom comes in to wake us up and says there's two guys that want to see us at the front door.<n>
+Likelihood difference: 0.855941772461
+
+29:
+Correct word: come
+Sentence: and we lit it up again and uh, this big old flame shot out and we all ran off.<n>And uh, as we got closer to Craig's house that we were staying at we came by uh, it was a plastic mailbox, and uh, so we uh, stuffed the newspaper in it and lit it on fire and we, we weren't really thinking and all the sudden the newspaper caught on fire and then the whole mailbox caught on fire.<n>It, it was plastic and it started dripping and fireballs of plastic
+Likelihood difference: 0.820828437805
+
+30:
+Correct word: come
+Sentence: right<n>but see i really think yeah i i think those characters came right off the screen in that story you know it was really enjoyable and and my wife we thought the same thing we were so pleasantly surprised<n>yeah<n>
+Likelihood difference: 0.74144077301
+
+31:
+Correct word: come
+Sentence: yeah and it'd be nice to do it with with all the same kind too<n>yeah well what they did is just they came in and just cut the glass out of the frame and put more glass in<n>hum<n>
+Likelihood difference: 0.721069335938
+
+32:
+Correct word: come
+Sentence: right<n>you know uh because the you know the character actors the town the community people were just great they just seem so real you know they came right off the screen<n>they were they were i mean i you know i i go to Italy every summer except i missed last summer but i mean it's like that you go into the small towns especially you know like in where he was in Sicily<n>
+Likelihood difference: 0.708378791809
+
+33:
+Correct word: come
+Sentence: Industry.<n>Industry, industry came in there.<n>Um, what about your, um,<n>
+Likelihood difference: 0.614499092102
+
+34:
+Correct word: come
+Sentence: And the little Klan people, um, found out, you know, what the sheriff's men, or whatever, what was going on.<n>And they were already jealous, a black man making money, or a half back man making money, or whatever you want to call it, and they came and burnt the house down, burnt the chicken coop down, and they killed a cow, or a couple of cows, I ain't too sure about that, but I think they killed a cow or a couple of cows.<n>And, um, they tried to take his land from him and they took it from him for a minute, and he went to jail for a little bit, and he got out, and still, you know, couldn't get his land, but he bought, bought, and bought, and he got his land back.<n>
+Likelihood difference: 0.579730987549
+
+35:
+Correct word: come
+Sentence: And he said, "Yeah!"<n>"That's why I came to this one I was all excited I saw the sign, you know?"<n>I said, "Well I hate to tell you.<n>
+Likelihood difference: 0.541240692139
+
+36:
+Correct word: come
+Sentence: you know all this is the first really large company i've worked for i've always been involved in little small you know individual privately owned  owned firms and so i've never had the the big benefit package so i really don't know how to compare it to other big companies you know it<n>when i came on it was great see because i had never had anything even close to what what they offered so i've been real pleased<n>well that's fantastic and on whole on i would say that they're<n>
+Likelihood difference: 0.525986671448
+
+37:
+Correct word: come
+Sentence: Wow.<n>But he said he was going to find them, and he came all the way back.<n>Do you have an idea what year that would be?<n>
+Likelihood difference: 0.454893112183
+
+38:
+Correct word: come
+Sentence: I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.<n>It was like a little bit close to five when she
+Likelihood difference: 0.405777931213
+
+39:
+Correct word: come
+Sentence: Then, and the neighbors, and a niece of mine and a cousin lived there, and bullets went through my nephew's, and he had a five-year-old daughter, who was the only one who was there, because her mom, had gone to bring water, and she stayed, because of the firefight, she also stayed inside, so that she wouldn't, the little girl locked herself in, and thank God, she survived.<n>And when, then that was the first time that my little boy came down with, as if, I don't know, he didn't faint, but he, he turned purple here [indicates area around her mouth], green and then purple, and then he stopped breathing, fell to the floor.<n>So, then, I grabbed him, and when I grabbed him, I put him under the bed, and I went outside.<n>
+Likelihood difference: 0.395945549011
+
+40:
+Correct word: come
+Sentence: Me!<n>But anyway, he climbed out a window and came by my window, and my window was several feet off the ground so it wasn't like I could escape.<n>But he would throw rocks up to get my attention and he saw me look out the window and he was jumping up and down waving his arms and laughing because he was out and I was still in.<n>
+Likelihood difference: 0.391185760498
+
+41:
+Correct word: come
+Sentence: Well anyway, I went back to my, my desk.<n>I ate real quick, as fast as I could and then she came in there and she ended up helping me with it.<n>It was like a little bit close to five when she
+Likelihood difference: 0.384134292603
+
+42:
+Correct word: come
+Sentence: But it wasn't like that.<n>I come to realize when I came down, mind you, you got to think this is the last place that held on to slavery as long as they could possibly hold on to it.<n>Just about, you know what I'm saying, you know what I'm saying?<n>
+Likelihood difference: 0.362071990967
+
+43:
+Correct word: come
+Sentence: And that's, I'll never forget it.<n>He came and then he said, "Shh, what happened to your van?"<n>I'm like, "Nice try, Richard but my van is fine.<n>
+Likelihood difference: 0.287375926971
+
+44:
+Correct word: come
+Sentence: um-hum yeah that's true<n>yeah especially the cost of that and and uh uh the attitudes of the soldiers i mean they're there they i think they could handle it better but if they came back and then had to turn around and go the attitudes would be just horrible<n>oh yeah they shouldn't leave anything in Bagdad taller than three feet<n>
+Likelihood difference: 0.281169891357
+
+45:
+Correct word: come
+Sentence: That wasn't good enough for him.<n>He too, came to the side, told me, you know, actually he pull me in the back, said, "Can I talk to you?"<n>I said, "Sure."<n>
+Likelihood difference: 0.277623176575
+
+46:
+Correct word: come
+Sentence: So, um, we got there and this woman had long green nails on, it was kind of crazy.<n>Um, she was like OH, you guys came for the perfect time, it's um St. Patrick's Day and we're having parties and parties, and all this stuff.<n>So, I couldn't go out, I think I was like 19 years old and you have to be like 21, uh, 18 in some clubs and 21 to drink, and we decided not to go out, considering everything that had happened that day.<n>
+Likelihood difference: 0.242022514343
+
+47:
+Correct word: come
+Sentence: He knew right then that it was a miracle, miracle child.<n>Would you say that um, your mom or you dad or whoever is telling the story, tells that part of the story, the, the last part when you came to the door and she saw the glow of light, would you say that they tell that part of the story more than any other part or do they tell the whole thing from beginning to end?<n>Beginning to end.<n>
+Likelihood difference: 0.222517967224
+
+48:
+Correct word: come
+Sentence: I, I just didn't I was just puzzled.<n>Of course I came back, after a week, to Laughlin Air Force base, and then shortly thereafter I got orders I could bring my family and everything to Las Vegas, NV and I couldn't tell my wife or anything about why I was going there because I didn't know.<n>And so, we moved to Las Vegas, NV, and I reported, just like I did in Washington, to a certain address in downtown Las Vegas.<n>
+Likelihood difference: 0.211856842041
+
+49:
+Correct word: come
+Sentence: yeah  the other thing that we've done that that was really nice to see we had one of the financial companies um<n>Hancock oh  John Hancock company came out and their agents did a long term analysis based on salary  and uh what we were planning what<n>what what our uh goals were on a long  term budget in terms of retirement kid's college paying off the house buying a different house<n>
+Likelihood difference: 0.158310890198
+
+50:
+Correct word: come
+Sentence: this is before I got married, so you know I spent the night with her a lot, and um, we, we were friends and I went to lay down with her little boy one night to put him to bed because he wouldn't go to sleep by his self and I had worked all day so I was really tired and I went and laid down with him and me and him fell asleep.<n>Well, Jennifer came back there and she woke me up, and, um, she said, "Tabatha," and I'm like "Um huh," and she's like "Tabatha get up and spend some time with me you hadn't, you know I hadn't seen you all week , please get up and talk to me for a little while," and I was real sleepy and I'm like, "OK Jennifer."<n>Well I opened my eyes and I like tossed my head over to look at Spencer, when I opened my eyes she was going back down the hall, I tossed my head back over to look at Spencer because he was laying on the other side of the bed, and uh, when I did, Jennifer was in the bed with me and Spencer, she was laying down between me and Spencer or on the other side of Spencer, Spencer was in between us, and I woke her up, I'm like, "Jennifer you got to wake up now," because, and I told her what had happened, and
+Likelihood difference: 0.157114028931
+

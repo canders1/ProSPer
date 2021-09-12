@@ -1,0 +1,250 @@
+1:
+Correct word: go
+Sentence: If the workforce at large can learn, what are the social arrangements that best sustain new learning? Leaving the determination of what is to be learned to a few senior managers? Knowing what is best for people or trusting that they might know, or at least contribute to knowing, what is best for themselves? Having people trapped by deferred rewards (Williamson, 1975), or acknowledging that those rewards systems are grounded in distrust?<n>A colleague recently visited the Czech republic, and explored that country’s relatively rapid adjustment to a market economy. She asked what was the single best thing a Czech worker could do to learn the underlying principles of the market. ‘Work for McDonalds,’ went the surprising reply, ‘but only for six months.’ It was explained that six months was quite long enough for the uninitiated worker to appreciate the importance of customers and customer service. After six months, the worker had learned what he or she could and it was time, from a career perspective, to move on.<n>The contrast between working for McDonalds for six months or working for McDonalds for a lifetime is, writ large, the contrast between boundaryless careers and their traditional bounded counterparts. Today’s work is increasingly ‘intelligent’ work (Quinn, 1992), that calls on workers’ learning capacities, and – as our examples suggest – provides an organising structure rich in project opportunities through which learning episodes can unfold. If that organising structure is lacking,
+Likelihood difference: 8.27613162994
+
+2:
+Correct word: go
+Sentence: I can remember uh, some of those stories now, uh, my mother would tell the story of a my uh, great grandmother, my grandmother sitting in the door of living room, when uh, my daddy would go to see her, before they got married and, and of course she would sit there until they leave, and sometimes she would act as though she was sleeping and got rather quiet, she would ( ).<n>In other words, I went to the conclusion that there was strict supervision of, of teenagers uh, while they were under the influence of their parents.<n>Uh,<n>
+Likelihood difference: 8.09963130951
+
+3:
+Correct word: come
+Sentence: Sequels: 45797<n>After my hair is all perfect, well almost perfect, I come into the closet and choose my blue dress. I have been saving this blue dress for formal date and I guess now is the time to bring it out. After putting it on, I look at myself in the mirror. My dress had a tight waist and flowed to the knees. The top has speggetti straps and
+Likelihood difference: 7.06937217712
+
+4:
+Correct word: come
+Sentence: revolutionary proportions, but why do you identify so much with the Jewish plight portrayed in Fiddler on the Roof?<n>Um, well my favorite part was the two staircases, one going up and one coming down, or there were three actually, one going nowhere, in between.<n>Dad, come on, you're making no sense at all.<n>
+Likelihood difference: 6.78772163391
+
+5:
+Correct word: come
+Sentence: And `cause I was really involved in theater and stuff in high school and everything like that.<n>And kind of like coming in to college or whatever, he kind of convinced me that what else am I going to do?<n>Uh-huh.<n>
+Likelihood difference: 6.78720378876
+
+6:
+Correct word: go
+Sentence: do you have a boo boo<n>that doesn't go across very well when you're uh talking to your coworkers<n>right<n>
+Likelihood difference: 6.62510871887
+
+7:
+Correct word: come
+Sentence: at such a rate of speed the engine the engine will actually drop<n>out of the car so that it doesn't come through the<n>so it does not go it doesn't go through the you know into the inside it'll go underneath the car instead<n>
+Likelihood difference: 6.57032203674
+
+8:
+Correct word: go
+Sentence: accomplished what he sought in football, and he wants to spend more time with<n>his family. The sunny spin: He's going out on top, just as Michael Jordan did.<n>The sad spin: He won't get a chance to try for a third Super Bowl. The cynical<n>
+Likelihood difference: 6.52605247498
+
+9:
+Correct word: go
+Sentence: descending reverence: 1) He was the greatest and most popular athlete of all<n>time. 2) How fitting that he's going out on top. 3) We'll miss his heroism. 4)<n>Without him, we're left with players who kick photographers and choke coaches.<n>
+Likelihood difference: 6.52178382874
+
+10:
+Correct word: come
+Sentence: well i guess mainly because um<n>it's i well like there's two sides to it i guess um one is that um if you're coming to work under the influence of any sort of drug alcohol whatever<n>or you know even if it's smoking inhibits you know your ability to function then<n>
+Likelihood difference: 6.30106258392
+
+11:
+Correct word: go
+Sentence: hence the distinction between murder and accident and serious dieting. If a<n>stranger rendered you unconscious and went at you with a knife, it would mean<n>one thing if it were O. J. Simpson--or any other former NFL great--but<n>
+Likelihood difference: 5.99718284607
+
+12:
+Correct word: come
+Sentence: to bed at night and there was one called The Pig Princess<n>and it was a a princess from a long long time ago and she came through a a spell kind of thing and ended up in a pig um sty and the people that she
+Likelihood difference: 5.95817947388
+
+13:
+Correct word: come
+Sentence: i think if some people they have they say well we're not going to start a can deposit because you have to get all these<n>um the the recycle center you have to deal with the can and then you have to to recycle it and their problem's already solved because they can just come to states that do have bottle deposits<n>yeah<n>
+Likelihood difference: 5.90160226822
+
+14:
+Correct word: come
+Sentence: almost send a beam into the system, go for a cup of coffee and return in time<n>to see the light come out. We can also see Jay Leno making up gags about the<n>post office."--Danish physicist Lene Vestergaard Hau and her team have devised<n>
+Likelihood difference: 5.84480476379
+
+15:
+Correct word: come
+Sentence: yeah yeah that's<n>you know and it's not real expensive uh you know uh lot of times they can share rides coming back and forth if they you know have people in the local area that live near them but uh<n>well and you know i think if they know that they can't get home all the time then they they're more brave they know they are going to have to forge some new relationships and you know be<n>
+Likelihood difference: 5.65413951874
+
+16:
+Correct word: go
+Sentence: PLoS Medicine is keen to work with authors towards making such reporting<n>possible. But although the time might have gone when the two-dimensional journal article<n>could suffice for complex papers, clinicians should nonetheless apply the same critical<n>
+Likelihood difference: 5.64638805389
+
+17:
+Correct word: come
+Sentence: with hope running high. Even Jason Hudgins gets to soar. "I look in the mirror<n>and I think to myself: 'Look at the person that you're coming to be.' "<n>It's a little hard to believe that the Jasons<n>
+Likelihood difference: 5.64173030853
+
+18:
+Correct word: come
+Sentence: “Oh,” Sissy answered with a certain irrefutable<n>logic, “you're coming the going way.”<n>I knew she meant I was headed away from our<n>
+Likelihood difference: 5.6277141571
+
+19:
+Correct word: come
+Sentence: um-hum um-hum<n>it told what happened when they got there and how many kids they had and it just kept coming on up through the generations<n>so it was really that was really neat and<n>
+Likelihood difference: 5.54691505432
+
+20:
+Correct word: come
+Sentence: based on a poverty population formula. About 21 percent of the fees<n>would come to this Kentucky Legal Aid office, Crocker said.<n>"We have bipartisan support on this issue and it isn't a tax<n>
+Likelihood difference: 5.54039955139
+
+21:
+Correct word: go
+Sentence: oh really<n>yeah and and well of course the you know the criminal case went up and  and the judge gave the woman who shot her shot the girl a uh<n>uh practically a suspended sentence i mean it was<n>
+Likelihood difference: 5.51909255981
+
+22:
+Correct word: go
+Sentence: Thus, we are to think of records as recording “measurements” that identify the source(s) of energy in the measured system, which may then be tapped to do work. My example of the wind through the window in Maxwell’s two-chambered gas system is a case in point. We have go od grounds from Zurek’s work to believe that the complexity of the record is related to the reduction in entropy of the measured system.<n>Notice some interesting features of records. First, a useless feature of a nonequilibrium system with respect to extraction of work may be recorded. Second, errors may be made in the record of a useful feature of a nonequilibrium system from which work can be extracted. Third, the record may
+Likelihood difference: 5.49446988106
+
+23:
+Correct word: come
+Sentence: He said, "Sarah and I live on the east side of the mountain. It's the sunrise side, not the sunset side. It's the side to see the day that is coming, not to see the day that is gone. "<n>I love the optimism in that painting, because that's how I feel about America. And we've been through a lot together during the last 3 3/4 years. We've come through a recession, a stock market decline, an attack on our country.<n>And yet, because of the hard work of the American people and good policies, this economy is growing. Over the next four years, we'll make sure the economy continues to grow.<n>
+Likelihood difference: 5.42795562744
+
+24:
+Correct word: come
+Sentence: OK.<n>Um, and what happens is as the settlers move in, he actually finds um, because he doesn't want to take people, you know, from his own tribe's arm but he needs an arm so he's spending all of eternity hunting for his arm and, um, as, you know, time comes on and the settlers start in, the region settlers.<n>Uh-huh.<n>
+Likelihood difference: 5.36273860931
+
+25:
+Correct word: come
+Sentence: um-hum<n>i've never actually got to plan one but i've came to several back here in Tennessee that uh were planned long distance with people you know because my immediate family is like five states<n>um-hum<n>
+Likelihood difference: 5.33535051346
+
+26:
+Correct word: come
+Sentence: side of town.  We still refer to a person who is lost,<n>either literally or spiritually, as coming the going<n>way .  As one might suspect, this tendency to lose<n>
+Likelihood difference: 5.26498532295
+
+27:
+Correct word: come
+Sentence: uh-huh yeah i can i can understand that i i think it is<n>you know i think it's so sad these these crack babies that are now coming into you know grade school elementary school you know that are so um<n>um-hum<n>
+Likelihood difference: 5.25816822052
+
+28:
+Correct word: come
+Sentence: and they used to call it the uh the UCLA invitational<n>because they figured everybody else is just coming to just to be there<n>yeah<n>
+Likelihood difference: 5.25155830383
+
+29:
+Correct word: come
+Sentence: yeah that's true<n>know you don't sound like you're from Dallas where do you come do you
+Likelihood difference: 5.19368743896
+
+30:
+Correct word: come
+Sentence: Shouldn’t you learn ways to protect the environment while you are enjoying it? Wouldn’t you like to? You can.<n>Why not come backpacking and overnight camping with AMC? We have groups for every level of expertise and programs for all seasons.<n>Why not
+Likelihood difference: 5.18191337585
+
+31:
+Correct word: come
+Sentence: um-hum<n>but uh that i see as a change and then industrially going back uh i i think uh uh industrially we've changed i think we've come through an era of the last thirty years or so twenty ten of a uh a<n>a nation that was industrially oriented towards uh manufacturing type industries and i think now we seeing ourselves transitioning into a more technological electronics age where it's<n>
+Likelihood difference: 5.17429351807
+
+32:
+Correct word: come
+Sentence: children's spouses and i have five boys and a girl and uh<n>oh  where did the girl come <n>in the middle uh-huh we kept trying  but uh the our our daughter or none of them have worked very much while their children have been little<n>
+Likelihood difference: 5.16899299622
+
+33:
+Correct word: come
+Sentence: Why not come backpacking and overnight camping with AMC? We have groups for every level of expertise and programs for all seasons.<n>Why not
+Likelihood difference: 5.16153097153
+
+34:
+Correct word: go
+Sentence: uh-huh<n> gone the day that the garbage goes<n>and they recycle um tin and aluminum cans and glass and newspaper basically<n>
+Likelihood difference: 5.07906150818
+
+35:
+Correct word: come
+Sentence: i i remember seeing the video of it on MTV and i thought it was hideous it was oh i didn't like that either<n>yeah there's  yeah but you know whatever became of Peter Frampton i mean there was nothing he was a phenomenon i mean there was no reason for him to really come into you know great stardom or anything<n>i remember i saw him in a concert when i was<n>
+Likelihood difference: 5.07205581665
+
+36:
+Correct word: come
+Sentence: Sequels: 45845<n>"You look exhausted,"? she spoke again. "Do you want to come lie down or something? I've got a hotel room up at the Montier."? At his inquisitive look she added, “I've got connections with the guy who owns it, so he lets me live there."?<n>After a moment he agreed. "Yeah that'd be great. It would probably be safer if we traveled in stealth though. There might be more of those guys,"? he suggested, looking around warily.<n>
+Likelihood difference: 5.02268886566
+
+37:
+Correct word: come
+Sentence: I told them my sister's.<n>They asked a few questions and I answered them and they said, "Get your baggage and leave there immediately, and come to the address you were supposed to when you arrived in Washington."<n>I go ahead and picked the baggage and went to the address I was supposed to.<n>
+Likelihood difference: 5.01920890808
+
+38:
+Correct word: come
+Sentence: oh is she<n>yeah but what we didn't consider was coming back and forth and things like that you know  yeah really so that's kind of<n>yeah exactly<n>
+Likelihood difference: 5.00064301491
+
+39:
+Correct word: come
+Sentence: yeah<n>um i'd like to come back to Dallas right now i'm in Utah of course  so um but my family's there so yeah i'd like to go back<n>oh huh<n>
+Likelihood difference: 4.98777580261
+
+40:
+Correct word: come
+Sentence: so the the beaches here just get really beat up uh<n>and it usually comes this way<n>yeah<n>
+Likelihood difference: 4.97927951813
+
+41:
+Correct word: go
+Sentence: and there's other places but like you said the the food doesn't matter it's you have such a good time there<n>have you ever gone to like dinner theaters or or uh things like that<n>yeah i have not in not in a good while but<n>
+Likelihood difference: 4.95080375671
+
+42:
+Correct word: go
+Sentence: and craft questions is more profound than the power to choose and craft<n>answers--and with that power goes responsibility. When the question is as<n>controversial as the answer, journalists who report the exact answer and who<n>
+Likelihood difference: 4.94087123871
+
+43:
+Correct word: come
+Sentence: then you'll never leave yeah oh<n>yeah i know and that's that's what happened to my brother he came to school up here and then when he went down there he was just so bad off you know from not being able to stay up here that<n>oh uh-huh<n>
+Likelihood difference: 4.90792274475
+
+44:
+Correct word: go
+Sentence: On its<n>face, the suggestion seems highly unlikely: that Willey, who had gone in<n>seeking a job from the president, would leave the Oval Office and stop to muss<n>
+Likelihood difference: 4.89232063293
+
+45:
+Correct word: go
+Sentence: And so it doesn't really matter whether supply-side<n>economics makes any sense, or even whether it goes down to a crushing electoral<n>defeat. The supply-siders will always have a safe haven in the world of Free<n>
+Likelihood difference: 4.8876543045
+
+46:
+Correct word: come
+Sentence: oh yeah that would be nice<n>i would love to go there and course there's a lot of places in the United States i still want to come you know go to<n>now have you been to Yellowstone<n>
+Likelihood difference: 4.87722873688
+
+47:
+Correct word: come
+Sentence: hm i don't know but i think that for example after the uh<n>after the uh Iran Iraq War when uh oil oil prices came way down i think it would have been news that oil company profits decreased as i'm sure they did you just didn't hear about it<n>right<n>
+Likelihood difference: 4.85209178925
+
+48:
+Correct word: come
+Sentence: rly of the Archipiélago de los Canarreos, might be your Caribbean paradise — if all you’re looking for is a dazzling white beach and clear blue seas. Other than the miles of beaches, there’s not much else of consequence here except mangrove, scrub, and half a dozen comfortable hotels with a full program of entertainment and watersports. Turtles nest in the sand at one end of the island. At the other you can go sailing, diving, or deep-sea fishing or take a boat trip to Playa Sirena, an incomparable strip of sand a 10-minute boat ride away, where lobster lunches are available. Cayo Largo, with its captive tourist audience, is considerably more expensive than the mainland.<n>Some package tourists spend the whole of their holiday on Cayo Largo. Those with low boredom thresholds might consider coming for only a daytrip or for overnight trips on half-hour flights from Havana and Varadero.<n>The Isla de la Juventud (Isle of Youth) is Cuba’s largest offshore island, some 50 km (31 miles) in diameter, but not its prettiest. It is said to have been the location for Robert Louis Stevenson’s Treasure Island; pirates once buried their booty here. The island received its jaunty name in the 1970s, when as many as 22,000 foreign students (mainly from politically sympathetic African countries) studied here in no fewer than 60 schools.<n>
+Likelihood difference: 4.83373022079
+
+49:
+Correct word: come
+Sentence: When I'm president, I'm sending that back to Congress and we're going to get a real prescription drug benefit.<n>Now, we also have people sicker because they don't have health insurance. So whether it's diabetes or cancer, they come to hospitals later and it costs America more.<n>We got to have health care for all Americans.<n>
+Likelihood difference: 4.81868076324
+
+50:
+Correct word: go
+Sentence: Clarion University<n>uh-huh uh-huh well you're you're the same age as my daughter because she just graduated from college this year too i'm a graduate student having gone back after many years so um<n>oh<n>
+Likelihood difference: 4.8130197525
+
